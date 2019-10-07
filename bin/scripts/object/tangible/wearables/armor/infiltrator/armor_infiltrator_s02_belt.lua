@@ -1,0 +1,3 @@
+object_tangible_wearables_armor_infiltrator_armor_infiltrator_s02_belt = object_tangible_wearables_armor_infiltrator_shared_armor_infiltrator_s02_belt:new {
+}
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_infiltrator_armor_infiltrator_s02_belt, "object/tangible/wearables/armor/infiltrator/shared_armor_infiltrator_s02_belt.iff")

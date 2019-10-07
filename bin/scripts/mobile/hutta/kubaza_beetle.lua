@@ -1,0 +1,53 @@
+kubaza_beetle = Creature:new {
+	objectName = "@mob/creature_names:kubaza_beetle",
+--	customName = "a kubaza beetle",
+	socialGroup = "beetle",
+	faction = "",
+	level = 38,
+	chanceHit = 0.49,
+	damageMin = 250,
+	damageMax = 285,
+	baseXp = 2297,
+	baseHAM = 5500,
+	baseHAMmax = 6100,
+	armor = 0,
+	-- (Kinetic, Energy, Blast, Heat, Cold, Electricity, Acid, Stun, Lightsaber)
+	resists = {25,25,25,60,25,25,25,25,-1},
+	meatType = "meat_insect",
+	meatAmount = 25,
+	hideType = "hide_scaley",
+	hideAmount = 30,
+	boneType = "",
+	boneAmount = 0,
+	milk = 0,
+--	tamingChance = 0.25,
+	ferocity = 3,
+	pvpBitmask = AGGRESSIVE + ATTACKABLE + ENEMY,
+	creatureBitmask = HERD + PACK,
+	optionsBitmask = AIENABLED,
+	diet = CARNIVORE,
+
+	templates = {"object/mobile/kubaza_beetle.iff"},
+	scale = 1.1,
+lootGroups = {},
+
+--	weapons = {"creature_spit_small_toxicgreen"},
+	weapons = {},
+	conversationTemplate = "",
+	attacks = {
+			{"",""},
+--		{"strongpoison",""},
+--		{"blindattack",""},
+--	  {"intimidationattack",""},
+--		{"stunattack",""},
+		  {"posturedownattack",""},
+--		{"creatureareadisease",""},
+--    {"dizzyattack",""},
+--		{"knockdownattack",""},
+--    {"posturedownattack",""},
+--		{"creatureareapoison",""},
+--    {"creatureareaattack",""},
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(kubaza_beetle, "kubaza_beetle")

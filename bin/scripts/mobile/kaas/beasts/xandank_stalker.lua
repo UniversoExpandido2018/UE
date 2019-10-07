@@ -1,0 +1,47 @@
+xandank_stalker = Creature:new {
+	objectName = "@mob/creature_names:xandank_stalker",
+	-- customName = "a xandank stalker",
+	socialGroup = "baz_nitch",
+	faction = "",
+	level = 89,
+	chanceHit = 1.09,
+	damageMin = 620,
+	damageMax = 810,
+	baseXp = 8265,
+	baseHAM = 12700,
+	baseHAMmax = 13800,
+	armor = 1,
+	-- (Kinetic, Energy, Blast, Heat, Cold, Electricity, Acid, Stun, Lightsaber)
+	resists = {60,30,50,90,50,50,50,30,-1},
+	meatType = "meat_insect",
+	meatAmount = 65,
+	hideType = "hide_scaley",
+	hideAmount = 85,
+	boneType = "",
+	boneAmount = 0,
+	milk = 0,
+	tamingChance = 0,
+	ferocity = 8,
+	pvpBitmask = AGGRESSIVE + ATTACKABLE + ENEMY,
+	creatureBitmask = PACK + KILLER + STALKER,
+	optionsBitmask = AIENABLED,
+	diet = CARNIVORE,
+
+  scale = 1,
+	templates = {"object/mobile/xandank.iff"},
+	lootGroups = {},
+	weapons = {},
+	conversationTemplate = "",
+	attacks = {
+		  {"",""},
+	  	{"intimidationattack","intimidationChance=35"},
+--		{"creatureareableeding",""},
+--		{"mildpoison",""},
+--		{"strongdisease",""},
+		  {"blindattack",""},
+		  {"stunattack","stunChance=80"},
+--		{"knockdownattack","knockdownChance=95"},
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(xandank_stalker, "xandank_stalker")

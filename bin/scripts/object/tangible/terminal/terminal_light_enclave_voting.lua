@@ -1,0 +1,6 @@
+
+object_tangible_terminal_terminal_light_enclave_voting = object_tangible_terminal_shared_terminal_light_enclave_voting:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_terminal_terminal_light_enclave_voting, "object/tangible/terminal/terminal_light_enclave_voting.iff")

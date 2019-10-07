@@ -1,0 +1,47 @@
+blistmok_raptor = Creature:new {
+	objectName = "@mob/creature_names:blistmok_raptor",
+	-- customName = "a blistmok raptor",
+	socialGroup = "blurrg",
+	faction = "",
+	level = 82,
+	chanceHit = 1,
+	damageMin = 520,
+	damageMax = 810,
+	baseXp = 5265,
+	baseHAM = 8500,
+	baseHAMmax = 9500,
+	armor = 0,
+	-- (Kinetic, Energy, Blast, Heat, Cold, Electricity, Acid, Stun, Lightsaber)
+	resists = {120,120,60,60,60,60,60,40,-1},
+	meatType = "meat_carnivore",
+	meatAmount = 100,
+	hideType = "hide_leathery",
+	hideAmount = 95,
+	boneType = "bone_avian",
+	boneAmount = 90,
+	milk = 0,
+	tamingChance = 0,
+	ferocity = 2,
+	pvpBitmask = AGGRESSIVE + ATTACKABLE + ENEMY,
+	creatureBitmask = PACK + KILLER,
+	optionsBitmask = AIENABLED,
+	diet = CARNIVORE,
+
+  scale = 1.3,
+	templates = {"object/mobile/blistmok.iff"},
+	lootGroups = {},
+	weapons = {},
+	conversationTemplate = "",
+	attacks = {
+		{"",""},
+		{"intimidationattack","intimidationChance=65"},
+		{"creatureareableeding",""},
+--		{"mildpoison",""},
+		{"strongdisease",""},
+--		{"blindattack",""},
+--		{"stunattack","stunChance=50"},
+--		{"knockdownattack","knockdownChance=95"},
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(blistmok_raptor, "blistmok_raptor")

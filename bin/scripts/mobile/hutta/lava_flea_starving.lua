@@ -1,0 +1,51 @@
+lava_flea_starving = Creature:new {
+	objectName = "@mob/creature_names:lava_flea_starving",
+--	customName = "a lava flea hatchling",
+	socialGroup = "beetle",
+	faction = "",
+	level = 72,
+	chanceHit = 1,
+	damageMin = 455,
+	damageMax = 720,
+	baseXp = 3700,
+	baseHAM = 9700,
+	baseHAMmax = 11800,
+	armor = 0,
+	-- (Kinetic, Energy, Blast, Heat, Cold, Electricity, Acid, Stun, Lightsaber)
+	resists = {80,80,80,200,80,80,40,80,-1},
+	meatType = "meat_insect",
+	meatAmount = 5,
+	hideType = "hide_scaley",
+	hideAmount = 7,
+	boneType = "",
+	boneAmount = 0,
+	milk = 0,
+--	tamingChance = 0.25,
+	ferocity = 10,
+	pvpBitmask = AGGRESSIVE + ATTACKABLE + ENEMY,
+	creatureBitmask = HERD + KILLER + STALKER,
+	optionsBitmask = AIENABLED,
+	diet = CARNIVORE,
+
+	--scale = 1,
+	templates = {"object/mobile/lava_flea.iff"},
+	scale = 0.85,
+lootGroups = {},
+
+--	weapons = {"creature_spit_small_toxicgreen"},
+	weapons = {},
+	conversationTemplate = "",
+	attacks = {
+				{"",""},
+  		{"strongpoison",""},
+		  {"blindattack",""},
+--	  {"intimidationattack",""},
+--		{"stunattack",""},
+--		{"posturedownattack",""},
+--    {"dizzyattack",""},
+	    {"knockdownattack",""},
+--    {"posturedownattack",""},
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(lava_flea_starving, "lava_flea_starving")

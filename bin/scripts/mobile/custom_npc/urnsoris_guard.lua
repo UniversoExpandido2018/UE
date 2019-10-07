@@ -1,0 +1,63 @@
+urnsoris_guard = Creature:new {
+--	objectName = "@mob/creature_names:arachne_fleshripper",
+	customName = "an Urnsoris guard",
+	socialGroup = "urnsoris",
+	faction = "",
+	level = 140,
+	chanceHit = 1.86,
+	damageMin = 795,
+	damageMax = 914,
+	baseXp = 10097,
+	baseHAM = 81700,
+	baseHAMmax = 85400,
+	armor = 1,
+	resists = {60,60,60,10,60,60,60,60,-1},
+  meatType = "",
+	meatAmount = 0,
+	hideType = "",
+	hideAmount = 0,
+	boneType = "",
+	boneAmount = 0,
+	milk = 0,
+--	tamingChance = 0.25,
+	ferocity = 1,
+	pvpBitmask = AGGRESSIVE + ATTACKABLE + ENEMY,
+	creatureBitmask = KILLER + PACK,
+	optionsBitmask = AIENABLED,
+	diet = CARNIVORE,
+
+	--scale = 1,
+	templates = {"object/mobile/urnsoris_guard.iff"},
+lootGroups = {
+	{
+		groups = {
+	--		{group = "power_crystals", chance = 600000},
+	--		{group = "color_crystals", chance = 6000000},
+	--		{group = "heavy_weapons_rifle", chance = 6000000},
+			{group = "heavy_weapons", chance = 6000000},
+			{group = "junk", chance = 7000000},
+			{group = "grenades_looted", chance = 6500000},
+			{group = "", chance = 6300000},
+	--		{group = "armor_attachments", chance = 3500000},
+	--		{group = "clothing_attachments", chance = 350000},
+	--		{group = "crystal_kuns_blood", chance = 8000000},
+		},
+								lootChance = 10000000
+	},
+},
+--	weapons = {"creature_spit_small_toxicgreen"},
+	weapons = {},
+	conversationTemplate = "",
+	attacks = {
+--		{"strongpoison",""},
+--		{"blindattack",""},
+	  	{"intimidationattack",""},
+--		{"stunattack",""},
+--		{"posturedownattack",""},
+      {"dizzyattack",""},
+			{"knockdownattack",""},
+--      {"posturedownattack",""},
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(urnsoris_guard, "urnsoris_guard")

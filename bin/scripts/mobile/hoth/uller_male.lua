@@ -1,0 +1,43 @@
+uller_male = Creature:new {
+	objectName = "@mob/creature_names:uller_male",
+--	customName = "an uller male",
+	socialGroup = "dewback",
+	faction = "",
+	level = 35,
+	chanceHit = 0.66,
+	damageMin = 360,
+	damageMax = 580,
+	baseXp = 1897,
+	baseHAM = 7500,
+	baseHAMmax = 12000,
+	armor = 0,
+	resists = {100,40,30,40,55,30,40,40,-1},
+  meatType = "meat_herbivore",
+	meatAmount = 165,
+	hideType = "hide_leathery",
+	hideAmount = 100,
+	boneType = "bone_mammal",
+	boneAmount = 165,
+	milk = 0,
+--	tamingChance = 0.25,
+	ferocity = 2,
+	pvpBitmask = ATTACKABLE,
+	creatureBitmask = HERD + PACK,
+	optionsBitmask = AIENABLED,
+	diet = HERBIVORE,
+
+	scale = 1.2,
+	templates = {"object/mobile/shared_uller.iff"},
+--	controlDeviceTemplate = "object/intangible/pet/tauntaun_hue.iff",
+	lootGroups = {},
+--	weapons = {"creature_spit_small_toxicgreen"},
+	weapons = {},
+	conversationTemplate = "",
+	attacks = {
+		{"",""},
+		{"stunattack",""},
+		{"knockdownattack","knockdownChance=25"},
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(uller_male, "uller_male")

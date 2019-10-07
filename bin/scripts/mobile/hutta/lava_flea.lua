@@ -1,0 +1,51 @@
+lava_flea = Creature:new {
+	objectName = "@mob/creature_names:lava_flea",
+--	customName = "a lava flea",
+	socialGroup = "beetle",
+	faction = "",
+	level = 35,
+	chanceHit = 0.66,
+	damageMin = 395,
+	damageMax = 470,
+	baseXp = 3097,
+	baseHAM = 5700,
+	baseHAMmax = 6600,
+	armor = 0,
+	-- (Kinetic, Energy, Blast, Heat, Cold, Electricity, Acid, Stun, Lightsaber)
+	resists = {35,60,40,200,35,50,10,60,-1},
+	meatType = "meat_insect",
+	meatAmount = 25,
+	hideType = "hide_scaley",
+	hideAmount = 30,
+	boneType = "",
+	boneAmount = 0,
+	milk = 0,
+	tamingChance = 0.25,
+	ferocity = 1,
+	pvpBitmask = ATTACKABLE,
+	creatureBitmask = HERD + PACK,
+	optionsBitmask = 128,
+	diet = CARNIVORE,
+
+	templates = {"object/mobile/lava_flea.iff"},
+	controlDeviceTemplate = "object/intangible/pet/lava_flea_hue.iff",
+	scale = 0.55,
+lootGroups = {},
+
+--	weapons = {"creature_spit_small_toxicgreen"},
+	weapons = {},
+	conversationTemplate = "",
+	attacks = {
+				{"",""},
+--		{"strongpoison",""},
+--		{"blindattack",""},
+--	  	{"intimidationattack",""},
+--		{"stunattack",""},
+--		{"posturedownattack",""},
+--      {"dizzyattack",""},
+--			{"knockdownattack",""},
+--      {"posturedownattack",""},
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(lava_flea, "lava_flea")

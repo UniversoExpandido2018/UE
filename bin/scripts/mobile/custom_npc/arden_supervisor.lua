@@ -1,0 +1,56 @@
+arden_supervisor = Creature:new {
+			objectName = "@mob/creature_names:arden_supervisor",
+--	randomNameType = NAME_GENERIC,
+--	randomNameTag = true,
+--	customName = "an Arden Industries Supervisor",
+	socialGroup = "arden_industries",
+	faction = "arden_industries",
+	level = 65,
+	chanceHit = 0.55,
+	damageMin = 170,
+	damageMax = 245,
+	baseXp = 460,
+	baseHAM = 3900,
+	baseHAMmax = 6000,
+	armor = 0,
+	resists = {0,0,0,0,0,0,0,0,-1},
+	meatType = "",
+	meatAmount = 0,
+	hideType = "",
+	hideAmount = 0,
+	boneType = "",
+	boneAmount = 0,
+	milk = 0,
+	tamingChance = 0,
+	ferocity = 1,
+	pvpBitmask = ATTACKABLE,
+	creatureBitmask = PACK + HERD + KILLER + HEALER,
+	optionsBitmask = AIENABLED,
+	diet = HERBIVORE,
+
+	templates = {
+--		"object/mobile/dressed_jedi_trainer_old_human_male_01.iff",
+--		"object/mobile/dressed_jedi_trainer_chiss_male_01.iff",
+--		"object/mobile/dressed_jedi_trainer_nikto_male_01.iff",
+--		"object/mobile/dressed_jedi_trainer_twilek_female_01.iff",
+--		"object/mobile/dressed_tiberus_anderlock.iff",
+--		"object/mobile/dressed_neja_bertolo.iff",
+
+			"object/mobile/dressed_noble_old_human_male_01.iff",
+			"object/mobile/dressed_noble_fat_human_male_01.iff",
+			"object/mobile/dressed_noble_fat_zabrak_male_01.iff",
+			"object/mobile/dressed_noble_human_male_04.iff",
+			"object/mobile/dressed_herald_corellia_01.iff",
+			"object/mobile/dressed_herald_tatooine_01.iff",
+			"object/mobile/dressed_noble_fat_human_male_02.iff",
+			"object/mobile/dressed_noble_twilek_male_01.iff",
+		},
+
+		lootGroups = {},
+
+	weapons = {"corsec_police_weapons"},
+	conversationTemplate = "",
+	attacks = merge(marksmanmaster)
+}
+
+CreatureTemplates:addCreatureTemplate(arden_supervisor, "arden_supervisor")

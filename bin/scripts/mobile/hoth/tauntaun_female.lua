@@ -1,0 +1,48 @@
+tauntaun_female = Creature:new {
+	objectName = "@mob/creature_names:tauntaun_female",
+--	customName = "a tauntaun female",
+	socialGroup = "tauntaun",
+	faction = "",
+	level = 40,
+	chanceHit = 0.68,
+	damageMin = 310,
+	damageMax = 440,
+	baseXp = 7817,
+	baseHAM = 11700,
+	baseHAMmax = 16600,
+	armor = 0,
+		-- (Kinetic, Energy, Blast, Heat, Cold, Electricity, Acid, Stun, Lightsaber)
+	resists = {35,40,5,30,90,15,20,15,-1},
+  meatType = "meat_herbivore",
+	meatAmount = 169,
+	hideType = "hide_leathery",
+	hideAmount = 86,
+	boneType = "bone_mammal",
+	boneAmount = 106,
+	milkType = "milk_wild",
+	milk = 90,
+	tamingChance = 0.25,
+	ferocity = 0,
+	pvpBitmask = ATTACKABLE,
+	creatureBitmask = HERD + PACK,
+	optionsBitmask = AIENABLED,
+	diet = HERBIVORE,
+
+--	scale = 1,
+	templates = {"object/mobile/tauntaun.iff"},
+	controlDeviceTemplate = "object/intangible/pet/tauntaun_hue.iff",
+	lootGroups = {},
+--	weapons = {"creature_spit_small_toxicgreen"},
+	weapons = {},
+	conversationTemplate = "",
+	attacks = {
+		{"",""},
+	--	{"strongpoison",""},
+--		{"intimidationattack",""},
+		{"stunattack",""},
+--		{"posturedownattack",""},
+--		{"blindattack",""},
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(tauntaun_female, "tauntaun_female")

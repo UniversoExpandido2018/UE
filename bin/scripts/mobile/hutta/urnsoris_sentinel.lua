@@ -1,0 +1,63 @@
+urnsoris_sentinel = Creature:new {
+--	objectName = "@mob/creature_names:arachne_fleshripper",
+	customName = "an Urnsoris sentinel",
+	socialGroup = "urnsoris",
+	faction = "",
+	level = 56,
+	chanceHit = 0.76,
+	damageMin = 396,
+	damageMax = 465,
+	baseXp = 5197,
+	baseHAM = 8800,
+	baseHAMmax = 11400,
+	armor = 0,
+	resists = {52,52,52,25,52,52,52,52,-1},
+	meatType = "meat_insect",
+	meatAmount = 71,
+	hideType = "",
+	hideAmount = 0,
+	boneType = "",
+	boneAmount = 0,
+	milk = 0,
+--	tamingChance = 0.25,
+	ferocity = 5,
+	pvpBitmask = AGGRESSIVE + ATTACKABLE + ENEMY,
+	creatureBitmask = KILLER + PACK,
+	optionsBitmask = AIENABLED,
+	diet = CARNIVORE,
+
+	scale = 1,
+	templates = {"object/mobile/urnsoris_assassin.iff"},
+lootGroups = {
+	{
+		groups = {
+	--		{group = "power_crystals", chance = 600000},
+	--		{group = "color_crystals", chance = 6000000},
+	--		{group = "heavy_weapons_rifle", chance = 6000000},
+	--		{group = "heavy_weapons", chance = 6000000},
+	--		{group = "junk", chance = 7000000},
+	--		{group = "grenades_looted", chance = 6500000},
+	      {group = "junk", chance = 7000000},
+	--		{group = "armor_attachments", chance = 3500000},
+	--		{group = "clothing_attachments", chance = 350000},
+	--		{group = "crystal_kuns_blood", chance = 8000000},
+		},
+								lootChance = 10000000
+	},
+},
+--	weapons = {"creature_spit_small_toxicgreen"},
+	weapons = {},
+	conversationTemplate = "",
+	attacks = {
+--		{"strongpoison",""},
+--		{"blindattack",""},
+	  	{"intimidationattack",""},
+		  {"stunattack",""},
+--		{"posturedownattack",""},
+      {"dizzyattack",""},
+--			{"knockdownattack",""},
+--      {"posturedownattack",""},
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(urnsoris_sentinel, "urnsoris_sentinel")

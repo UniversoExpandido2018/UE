@@ -1,0 +1,42 @@
+enraged_sand_spider = Creature:new {
+  	objectName = "@mob/creature_names:enraged_sand_spider",
+--  customName = "an enraged sand spider",
+	socialGroup = "spider",
+	faction = "",
+	level = 93,
+	chanceHit = 0.99,
+	damageMin = 500,
+	damageMax = 899,
+	baseXp = 15922,
+	baseHAM = 19000,
+	baseHAMmax = 23000,
+	armor = 1,
+	resists = {40,40,40,40,40,40,40,40,-1},
+	meatType = "meat_insect",
+	meatAmount = 70,
+	hideType = "",
+	hideAmount = 0,
+	boneType = "",
+	boneAmount = 0,
+	milk = 0,
+	tamingChance = 0,
+	ferocity = 0,
+	pvpBitmask = AGGRESSIVE + ATTACKABLE + ENEMY,
+	creatureBitmask = PACK + HERD,
+	optionsBitmask = AIENABLED,
+	diet = CARNIVORE,
+
+	templates = {"object/mobile/nightspider_aggressor.iff"},
+	scale = 1.1,
+	lootGroups = {},
+  weapons = {},
+	conversationTemplate = "",
+	attacks = {
+		{"posturedownattack",""},
+--		{"stunattack",""},
+		{"strongpoison",""},
+--		{"creatureareaknockdown",""},
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(enraged_sand_spider, "enraged_sand_spider")

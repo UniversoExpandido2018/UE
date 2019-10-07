@@ -1,0 +1,35 @@
+theme_park_imperial_commander1 = Creature:new {
+	objectName = "",
+	socialGroup = "",
+	faction = "",
+	level = 65,
+	chanceHit = 0.36,
+	damageMin = 1540,
+	damageMax = 2250,
+	baseXp = 22637,
+	baseHAM = 27200,
+	baseHAMmax = 38800,
+	armor = 0,
+	resists = {30,30,50,10,10,-1,10,-1,-1},
+	meatType = "",
+	meatAmount = 0,
+	hideType = "",
+	hideAmount = 0,
+	boneType = "",
+	boneAmount = 0,
+	milk = 0,
+	tamingChance = 0,
+	ferocity = 0,
+	pvpBitmask = ATTACKABLE,
+	creatureBitmask = PACK,
+	optionsBitmask = AIENABLED,
+	diet = HERBIVORE,
+
+	templates = {"object/mobile/dressed_imperial_commander_m.iff"},
+	lootGroups = {},
+	weapons = {},
+	conversationTemplate = "",
+	attacks = brawlermaster
+}
+
+CreatureTemplates:addCreatureTemplate(theme_park_imperial_commander1, "theme_park_imperial_commander1")

@@ -1,0 +1,825 @@
+object_tangible_wearables_boots_shared_boots_corsec = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/wearables/boots/shared_boots_corsec.iff"
+	--Data below here is deprecated and loaded from the tres, keeping for easy lookups
+--[[
+	appearanceFilename = "appearance/boots_s12_f.sat",
+	arrangementDescriptorFilename = "abstract/slot/arrangement/wearables/shoe.iff",
+
+	certificationsRequired = {},
+	clearFloraRadius = 0,
+	clientDataFile = "",
+	clientGameObjectType = 16777222,
+	collisionActionBlockFlags = 0,
+	collisionActionFlags = 51,
+	collisionActionPassFlags = 1,
+	collisionMaterialBlockFlags = 0,
+	collisionMaterialFlags = 1,
+	collisionMaterialPassFlags = 0,
+	containerType = 0,
+	containerVolumeLimit = 1,
+	customizationVariableMapping = {},
+
+	detailedDescription = "@wearables_detail:boots_corsec",
+
+	gameObjectType = 16777222,
+
+	locationReservationRadius = 0,
+	lookAtText = "@wearables_lookat:boots_corsec",
+
+	noBuildRadius = 0,
+
+	objectName = "@wearables_name:boots_corsec",
+	onlyVisibleInTools = 0,
+
+	paletteColorCustomizationVariables = {},
+	portalLayoutFilename = "",
+
+	rangedIntCustomizationVariables = {},
+
+	scale = 1,
+	scaleThresholdBeforeExtentTest = 0.5,
+	sendToClient = 1,
+	slotDescriptorFilename = "abstract/slot/descriptor/tangible.iff",
+	snapToTerrain = 1,
+	socketDestinations = {},
+	structureFootprintFileName = "",
+	surfaceType = 0,
+
+	targetable = 1,
+	totalCellNumber = 0,
+
+	useStructureFootprintOutline = 0,
+
+	clientObjectCRC = 803130691,
+	derivedFromTemplates = {"object/object/base/shared_base_object.iff", "object/tangible/base/shared_tangible_base.iff", "object/tangible/base/shared_tangible_craftable.iff", "object/tangible/wearables/base/shared_wearables_base.iff", "object/tangible/wearables/base/shared_base_shoes.iff"}
+]]
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_wearables_boots_shared_boots_corsec, "object/tangible/wearables/boots/shared_boots_corsec.iff")
+
+object_tangible_wearables_boots_shared_boots_s03 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/wearables/boots/shared_boots_s03.iff"
+	--Data below here is deprecated and loaded from the tres, keeping for easy lookups
+--[[
+	appearanceFilename = "appearance/boots_s03_f.sat",
+	arrangementDescriptorFilename = "abstract/slot/arrangement/wearables/shoe.iff",
+
+	certificationsRequired = {},
+	clearFloraRadius = 0,
+	clientDataFile = "",
+	clientGameObjectType = 16777222,
+	collisionActionBlockFlags = 0,
+	collisionActionFlags = 51,
+	collisionActionPassFlags = 1,
+	collisionMaterialBlockFlags = 0,
+	collisionMaterialFlags = 1,
+	collisionMaterialPassFlags = 0,
+	containerType = 0,
+	containerVolumeLimit = 1,
+	customizationVariableMapping = {},
+
+	detailedDescription = "@wearables_detail:boots_s03",
+
+	gameObjectType = 16777222,
+
+	locationReservationRadius = 0,
+	lookAtText = "@wearables_lookat:boots_s03",
+
+	noBuildRadius = 0,
+
+	objectName = "@wearables_name:boots_s03",
+	onlyVisibleInTools = 0,
+
+	paletteColorCustomizationVariables = {},
+	portalLayoutFilename = "",
+
+	rangedIntCustomizationVariables = {},
+
+	scale = 1,
+	scaleThresholdBeforeExtentTest = 0.5,
+	sendToClient = 1,
+	slotDescriptorFilename = "abstract/slot/descriptor/tangible.iff",
+	snapToTerrain = 1,
+	socketDestinations = {},
+	structureFootprintFileName = "",
+	surfaceType = 0,
+
+	targetable = 1,
+	totalCellNumber = 0,
+
+	useStructureFootprintOutline = 0,
+
+	clientObjectCRC = 1907982508,
+	derivedFromTemplates = {"object/object/base/shared_base_object.iff", "object/tangible/base/shared_tangible_base.iff", "object/tangible/base/shared_tangible_craftable.iff", "object/tangible/wearables/base/shared_wearables_base.iff", "object/tangible/wearables/base/shared_base_shoes.iff"}
+]]
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_wearables_boots_shared_boots_s03, "object/tangible/wearables/boots/shared_boots_s03.iff")
+
+object_tangible_wearables_boots_shared_boots_s04 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/wearables/boots/shared_boots_s04.iff"
+	--Data below here is deprecated and loaded from the tres, keeping for easy lookups
+--[[
+	appearanceFilename = "appearance/boots_s04_f.sat",
+	arrangementDescriptorFilename = "abstract/slot/arrangement/wearables/shoe.iff",
+
+	certificationsRequired = {},
+	clearFloraRadius = 0,
+	clientDataFile = "",
+	clientGameObjectType = 16777222,
+	collisionActionBlockFlags = 0,
+	collisionActionFlags = 51,
+	collisionActionPassFlags = 1,
+	collisionMaterialBlockFlags = 0,
+	collisionMaterialFlags = 1,
+	collisionMaterialPassFlags = 0,
+	containerType = 0,
+	containerVolumeLimit = 1,
+	customizationVariableMapping = {},
+
+	detailedDescription = "@wearables_detail:boots_s04",
+
+	gameObjectType = 16777222,
+
+	locationReservationRadius = 0,
+	lookAtText = "@wearables_lookat:boots_s04",
+
+	noBuildRadius = 0,
+
+	objectName = "@wearables_name:boots_s04",
+	onlyVisibleInTools = 0,
+
+	paletteColorCustomizationVariables = {},
+	portalLayoutFilename = "",
+
+	rangedIntCustomizationVariables = {},
+
+	scale = 1,
+	scaleThresholdBeforeExtentTest = 0.5,
+	sendToClient = 1,
+	slotDescriptorFilename = "abstract/slot/descriptor/tangible.iff",
+	snapToTerrain = 1,
+	socketDestinations = {},
+	structureFootprintFileName = "",
+	surfaceType = 0,
+
+	targetable = 1,
+	totalCellNumber = 0,
+
+	useStructureFootprintOutline = 0,
+
+	clientObjectCRC = 2321198008,
+	derivedFromTemplates = {"object/object/base/shared_base_object.iff", "object/tangible/base/shared_tangible_base.iff", "object/tangible/base/shared_tangible_craftable.iff", "object/tangible/wearables/base/shared_wearables_base.iff", "object/tangible/wearables/base/shared_base_shoes.iff"}
+]]
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_wearables_boots_shared_boots_s04, "object/tangible/wearables/boots/shared_boots_s04.iff")
+
+object_tangible_wearables_boots_shared_boots_s05 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/wearables/boots/shared_boots_s05.iff"
+	--Data below here is deprecated and loaded from the tres, keeping for easy lookups
+--[[
+	appearanceFilename = "appearance/boots_s05_f.sat",
+	arrangementDescriptorFilename = "abstract/slot/arrangement/wearables/shoe.iff",
+
+	certificationsRequired = {},
+	clearFloraRadius = 0,
+	clientDataFile = "",
+	clientGameObjectType = 16777222,
+	collisionActionBlockFlags = 0,
+	collisionActionFlags = 51,
+	collisionActionPassFlags = 1,
+	collisionMaterialBlockFlags = 0,
+	collisionMaterialFlags = 1,
+	collisionMaterialPassFlags = 0,
+	containerType = 0,
+	containerVolumeLimit = 1,
+	customizationVariableMapping = {},
+
+	detailedDescription = "@wearables_detail:boots_s05",
+
+	gameObjectType = 16777222,
+
+	locationReservationRadius = 0,
+	lookAtText = "@wearables_lookat:boots_s05",
+
+	noBuildRadius = 0,
+
+	objectName = "@wearables_name:boots_s05",
+	onlyVisibleInTools = 0,
+
+	paletteColorCustomizationVariables = {},
+	portalLayoutFilename = "",
+
+	rangedIntCustomizationVariables = {},
+
+	scale = 1,
+	scaleThresholdBeforeExtentTest = 0.5,
+	sendToClient = 1,
+	slotDescriptorFilename = "abstract/slot/descriptor/tangible.iff",
+	snapToTerrain = 1,
+	socketDestinations = {},
+	structureFootprintFileName = "",
+	surfaceType = 0,
+
+	targetable = 1,
+	totalCellNumber = 0,
+
+	useStructureFootprintOutline = 0,
+
+	clientObjectCRC = 3277311029,
+	derivedFromTemplates = {"object/object/base/shared_base_object.iff", "object/tangible/base/shared_tangible_base.iff", "object/tangible/base/shared_tangible_craftable.iff", "object/tangible/wearables/base/shared_wearables_base.iff", "object/tangible/wearables/base/shared_base_shoes.iff"}
+]]
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_wearables_boots_shared_boots_s05, "object/tangible/wearables/boots/shared_boots_s05.iff")
+
+object_tangible_wearables_boots_shared_boots_s12 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/wearables/boots/shared_boots_s12.iff"
+	--Data below here is deprecated and loaded from the tres, keeping for easy lookups
+--[[
+	appearanceFilename = "appearance/boots_s12_f.sat",
+	arrangementDescriptorFilename = "abstract/slot/arrangement/wearables/shoe.iff",
+
+	certificationsRequired = {},
+	clearFloraRadius = 0,
+	clientDataFile = "",
+	clientGameObjectType = 16777222,
+	collisionActionBlockFlags = 0,
+	collisionActionFlags = 51,
+	collisionActionPassFlags = 1,
+	collisionMaterialBlockFlags = 0,
+	collisionMaterialFlags = 1,
+	collisionMaterialPassFlags = 0,
+	containerType = 0,
+	containerVolumeLimit = 1,
+	customizationVariableMapping = {},
+
+	detailedDescription = "@wearables_detail:boots_s12",
+
+	gameObjectType = 16777222,
+
+	locationReservationRadius = 0,
+	lookAtText = "@wearables_lookat:boots_s12",
+
+	noBuildRadius = 0,
+
+	objectName = "@wearables_name:boots_s12",
+	onlyVisibleInTools = 0,
+
+	paletteColorCustomizationVariables = {},
+	portalLayoutFilename = "",
+
+	rangedIntCustomizationVariables = {},
+
+	scale = 1,
+	scaleThresholdBeforeExtentTest = 0.5,
+	sendToClient = 1,
+	slotDescriptorFilename = "abstract/slot/descriptor/tangible.iff",
+	snapToTerrain = 1,
+	socketDestinations = {},
+	structureFootprintFileName = "",
+	surfaceType = 0,
+
+	targetable = 1,
+	totalCellNumber = 0,
+
+	useStructureFootprintOutline = 0,
+
+	clientObjectCRC = 597486169,
+	derivedFromTemplates = {"object/object/base/shared_base_object.iff", "object/tangible/base/shared_tangible_base.iff", "object/tangible/base/shared_tangible_craftable.iff", "object/tangible/wearables/base/shared_wearables_base.iff", "object/tangible/wearables/base/shared_base_shoes.iff"}
+]]
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_wearables_boots_shared_boots_s12, "object/tangible/wearables/boots/shared_boots_s12.iff")
+
+object_tangible_wearables_boots_shared_boots_s14 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/wearables/boots/shared_boots_s14.iff"
+	--Data below here is deprecated and loaded from the tres, keeping for easy lookups
+--[[
+	appearanceFilename = "appearance/boots_s14_f.sat",
+	arrangementDescriptorFilename = "abstract/slot/arrangement/wearables/shoe.iff",
+
+	certificationsRequired = {},
+	clearFloraRadius = 0,
+	clientDataFile = "",
+	clientGameObjectType = 16777222,
+	collisionActionBlockFlags = 0,
+	collisionActionFlags = 51,
+	collisionActionPassFlags = 1,
+	collisionMaterialBlockFlags = 0,
+	collisionMaterialFlags = 1,
+	collisionMaterialPassFlags = 0,
+	containerType = 0,
+	containerVolumeLimit = 1,
+	customizationVariableMapping = {},
+
+	detailedDescription = "@wearables_detail:boots_s14",
+
+	gameObjectType = 16777222,
+
+	locationReservationRadius = 0,
+	lookAtText = "@wearables_lookat:boots_s14",
+
+	noBuildRadius = 0,
+
+	objectName = "@wearables_name:boots_s14",
+	onlyVisibleInTools = 0,
+
+	paletteColorCustomizationVariables = {},
+	portalLayoutFilename = "",
+
+	rangedIntCustomizationVariables = {},
+
+	scale = 1,
+	scaleThresholdBeforeExtentTest = 0.5,
+	sendToClient = 1,
+	slotDescriptorFilename = "abstract/slot/descriptor/tangible.iff",
+	snapToTerrain = 1,
+	socketDestinations = {},
+	structureFootprintFileName = "",
+	surfaceType = 0,
+
+	targetable = 1,
+	totalCellNumber = 0,
+
+	useStructureFootprintOutline = 0,
+
+	clientObjectCRC = 2440210112,
+	derivedFromTemplates = {"object/object/base/shared_base_object.iff", "object/tangible/base/shared_tangible_base.iff", "object/tangible/base/shared_tangible_craftable.iff", "object/tangible/wearables/base/shared_wearables_base.iff", "object/tangible/wearables/base/shared_base_shoes.iff"}
+]]
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_wearables_boots_shared_boots_s14, "object/tangible/wearables/boots/shared_boots_s14.iff")
+
+object_tangible_wearables_boots_shared_boots_s15 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/wearables/boots/shared_boots_s15.iff"
+	--Data below here is deprecated and loaded from the tres, keeping for easy lookups
+--[[
+	appearanceFilename = "appearance/boots_s15_f.sat",
+	arrangementDescriptorFilename = "abstract/slot/arrangement/wearables/shoe.iff",
+
+	certificationsRequired = {},
+	clearFloraRadius = 0,
+	clientDataFile = "",
+	clientGameObjectType = 16777222,
+	collisionActionBlockFlags = 0,
+	collisionActionFlags = 51,
+	collisionActionPassFlags = 1,
+	collisionMaterialBlockFlags = 0,
+	collisionMaterialFlags = 1,
+	collisionMaterialPassFlags = 0,
+	containerType = 0,
+	containerVolumeLimit = 1,
+	customizationVariableMapping = {},
+
+	detailedDescription = "@wearables_detail:boots_s15",
+
+	gameObjectType = 16777222,
+
+	locationReservationRadius = 0,
+	lookAtText = "@wearables_lookat:boots_s15",
+
+	noBuildRadius = 0,
+
+	objectName = "@wearables_name:boots_s15",
+	onlyVisibleInTools = 0,
+
+	paletteColorCustomizationVariables = {},
+	portalLayoutFilename = "",
+
+	rangedIntCustomizationVariables = {},
+
+	scale = 1,
+	scaleThresholdBeforeExtentTest = 0.5,
+	sendToClient = 1,
+	slotDescriptorFilename = "abstract/slot/descriptor/tangible.iff",
+	snapToTerrain = 1,
+	socketDestinations = {},
+	structureFootprintFileName = "",
+	surfaceType = 0,
+
+	targetable = 1,
+	totalCellNumber = 0,
+
+	useStructureFootprintOutline = 0,
+
+	clientObjectCRC = 3632251213,
+	derivedFromTemplates = {"object/object/base/shared_base_object.iff", "object/tangible/base/shared_tangible_base.iff", "object/tangible/base/shared_tangible_craftable.iff", "object/tangible/wearables/base/shared_wearables_base.iff", "object/tangible/wearables/base/shared_base_shoes.iff"}
+]]
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_wearables_boots_shared_boots_s15, "object/tangible/wearables/boots/shared_boots_s15.iff")
+
+object_tangible_wearables_boots_shared_boots_s19 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/wearables/boots/shared_boots_s19.iff"
+	--Data below here is deprecated and loaded from the tres, keeping for easy lookups
+--[[
+	appearanceFilename = "appearance/boots_s19_f.sat",
+	arrangementDescriptorFilename = "abstract/slot/arrangement/wearables/shoe.iff",
+
+	certificationsRequired = {},
+	clearFloraRadius = 0,
+	clientDataFile = "",
+	clientGameObjectType = 16777222,
+	collisionActionBlockFlags = 0,
+	collisionActionFlags = 51,
+	collisionActionPassFlags = 1,
+	collisionMaterialBlockFlags = 0,
+	collisionMaterialFlags = 1,
+	collisionMaterialPassFlags = 0,
+	containerType = 0,
+	containerVolumeLimit = 1,
+	customizationVariableMapping = {},
+
+	detailedDescription = "@wearables_detail:boots_s19",
+
+	gameObjectType = 16777222,
+
+	locationReservationRadius = 0,
+	lookAtText = "@wearables_lookat:boots_s19",
+
+	noBuildRadius = 0,
+
+	objectName = "@wearables_name:boots_s19",
+	onlyVisibleInTools = 0,
+
+	paletteColorCustomizationVariables = {},
+	portalLayoutFilename = "",
+
+	rangedIntCustomizationVariables = {},
+
+	scale = 1,
+	scaleThresholdBeforeExtentTest = 0.5,
+	sendToClient = 1,
+	slotDescriptorFilename = "abstract/slot/descriptor/tangible.iff",
+	snapToTerrain = 1,
+	socketDestinations = {},
+	structureFootprintFileName = "",
+	surfaceType = 0,
+
+	targetable = 1,
+	totalCellNumber = 0,
+
+	useStructureFootprintOutline = 0,
+
+	clientObjectCRC = 3110225352,
+	derivedFromTemplates = {"object/object/base/shared_base_object.iff", "object/tangible/base/shared_tangible_base.iff", "object/tangible/base/shared_tangible_craftable.iff", "object/tangible/wearables/base/shared_wearables_base.iff", "object/tangible/wearables/base/shared_base_shoes.iff"}
+]]
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_wearables_boots_shared_boots_s19, "object/tangible/wearables/boots/shared_boots_s19.iff")
+
+object_tangible_wearables_boots_shared_boots_s21 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/wearables/boots/shared_boots_s21.iff"
+	--Data below here is deprecated and loaded from the tres, keeping for easy lookups
+--[[
+	appearanceFilename = "appearance/boots_s21_f.sat",
+	arrangementDescriptorFilename = "abstract/slot/arrangement/wearables/shoe.iff",
+
+	certificationsRequired = {},
+	clearFloraRadius = 0,
+	clientDataFile = "",
+	clientGameObjectType = 16777222,
+	collisionActionBlockFlags = 0,
+	collisionActionFlags = 51,
+	collisionActionPassFlags = 1,
+	collisionMaterialBlockFlags = 0,
+	collisionMaterialFlags = 1,
+	collisionMaterialPassFlags = 0,
+	containerType = 0,
+	containerVolumeLimit = 1,
+	customizationVariableMapping = {},
+
+	detailedDescription = "@wearables_detail:boots_s21",
+
+	gameObjectType = 16777222,
+
+	locationReservationRadius = 0,
+	lookAtText = "@wearables_lookat:boots_s21",
+
+	noBuildRadius = 0,
+
+	objectName = "@wearables_name:boots_s21",
+	onlyVisibleInTools = 0,
+
+	paletteColorCustomizationVariables = {},
+	portalLayoutFilename = "",
+
+	rangedIntCustomizationVariables = {},
+
+	scale = 1,
+	scaleThresholdBeforeExtentTest = 0.5,
+	sendToClient = 1,
+	slotDescriptorFilename = "abstract/slot/descriptor/tangible.iff",
+	snapToTerrain = 1,
+	socketDestinations = {},
+	structureFootprintFileName = "",
+	surfaceType = 0,
+
+	targetable = 1,
+	totalCellNumber = 0,
+
+	useStructureFootprintOutline = 0,
+
+	clientObjectCRC = 3589494086,
+	derivedFromTemplates = {"object/object/base/shared_base_object.iff", "object/tangible/base/shared_tangible_base.iff", "object/tangible/base/shared_tangible_craftable.iff", "object/tangible/wearables/base/shared_wearables_base.iff", "object/tangible/wearables/base/shared_base_shoes.iff"}
+]]
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_wearables_boots_shared_boots_s21, "object/tangible/wearables/boots/shared_boots_s21.iff")
+
+object_tangible_wearables_boots_shared_boots_s22 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/wearables/boots/shared_boots_s22.iff"
+	--Data below here is deprecated and loaded from the tres, keeping for easy lookups
+--[[
+	appearanceFilename = "appearance/boots_s22_f.sat",
+	arrangementDescriptorFilename = "abstract/slot/arrangement/wearables/shoe.iff",
+
+	certificationsRequired = {},
+	clearFloraRadius = 0,
+	clientDataFile = "",
+	clientGameObjectType = 16777222,
+	collisionActionBlockFlags = 0,
+	collisionActionFlags = 51,
+	collisionActionPassFlags = 1,
+	collisionMaterialBlockFlags = 0,
+	collisionMaterialFlags = 1,
+	collisionMaterialPassFlags = 0,
+	containerType = 0,
+	containerVolumeLimit = 1,
+	customizationVariableMapping = {},
+
+	detailedDescription = "@wearables_detail:boots_s22",
+
+	gameObjectType = 16777222,
+
+	locationReservationRadius = 0,
+	lookAtText = "@wearables_lookat:boots_s22",
+
+	noBuildRadius = 0,
+
+	objectName = "@wearables_name:boots_s22",
+	onlyVisibleInTools = 0,
+
+	paletteColorCustomizationVariables = {},
+	portalLayoutFilename = "",
+
+	rangedIntCustomizationVariables = {},
+
+	scale = 1,
+	scaleThresholdBeforeExtentTest = 0.5,
+	sendToClient = 1,
+	slotDescriptorFilename = "abstract/slot/descriptor/tangible.iff",
+	snapToTerrain = 1,
+	socketDestinations = {},
+	structureFootprintFileName = "",
+	surfaceType = 0,
+
+	targetable = 1,
+	totalCellNumber = 0,
+
+	useStructureFootprintOutline = 0,
+
+	clientObjectCRC = 249888209,
+	derivedFromTemplates = {"object/object/base/shared_base_object.iff", "object/tangible/base/shared_tangible_base.iff", "object/tangible/base/shared_tangible_craftable.iff", "object/tangible/wearables/base/shared_wearables_base.iff", "object/tangible/wearables/base/shared_base_shoes.iff"}
+]]
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_wearables_boots_shared_boots_s22, "object/tangible/wearables/boots/shared_boots_s22.iff")
+
+object_tangible_wearables_boots_shared_boots_s34 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/wearables/boots/shared_boots_s34.iff"
+	--Data below here is deprecated and loaded from the tres, keeping for easy lookups
+--[[
+	appearanceFilename = "appearance/boots_s34_f.sat",
+	arrangementDescriptorFilename = "abstract/slot/arrangement/wearables/shoe.iff",
+
+	certificationsRequired = {},
+	clearFloraRadius = 0,
+	clientDataFile = "",
+	clientGameObjectType = 16777222,
+	collisionActionBlockFlags = 0,
+	collisionActionFlags = 51,
+	collisionActionPassFlags = 1,
+	collisionMaterialBlockFlags = 0,
+	collisionMaterialFlags = 1,
+	collisionMaterialPassFlags = 0,
+	containerType = 0,
+	containerVolumeLimit = 1,
+	customizationVariableMapping = {},
+
+	detailedDescription = "@wearables_detail:boots_s34",
+
+	gameObjectType = 16777222,
+
+	locationReservationRadius = 0,
+	lookAtText = "@wearables_lookat:boots_s34",
+
+	noBuildRadius = 0,
+
+	objectName = "@wearables_name:boots_s34",
+	onlyVisibleInTools = 0,
+
+	paletteColorCustomizationVariables = {},
+	portalLayoutFilename = "",
+
+	rangedIntCustomizationVariables = {},
+
+	scale = 1,
+	scaleThresholdBeforeExtentTest = 0.5,
+	sendToClient = 1,
+	slotDescriptorFilename = "abstract/slot/descriptor/tangible.iff",
+	snapToTerrain = 1,
+	socketDestinations = {},
+	structureFootprintFileName = "",
+	surfaceType = 0,
+
+	targetable = 1,
+	totalCellNumber = 0,
+
+	useStructureFootprintOutline = 0,
+
+	clientObjectCRC = 2804071472,
+	derivedFromTemplates = {"object/object/base/shared_base_object.iff", "object/tangible/base/shared_tangible_base.iff", "object/tangible/base/shared_tangible_craftable.iff", "object/tangible/wearables/base/shared_wearables_base.iff", "object/tangible/wearables/base/shared_base_shoes.iff"}
+]]
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_wearables_boots_shared_boots_s34, "object/tangible/wearables/boots/shared_boots_s34.iff")
+
+object_tangible_wearables_boots_shared_boots_tusken_raider = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/wearables/boots/shared_boots_tusken_raider.iff"
+	--Data below here is deprecated and loaded from the tres, keeping for easy lookups
+--[[
+	appearanceFilename = "appearance/boots_tusken_raider_m.sat",
+	arrangementDescriptorFilename = "abstract/slot/arrangement/wearables/shoe.iff",
+
+	certificationsRequired = {},
+	clearFloraRadius = 0,
+	clientDataFile = "",
+	clientGameObjectType = 16777222,
+	collisionActionBlockFlags = 0,
+	collisionActionFlags = 51,
+	collisionActionPassFlags = 1,
+	collisionMaterialBlockFlags = 0,
+	collisionMaterialFlags = 1,
+	collisionMaterialPassFlags = 0,
+	containerType = 0,
+	containerVolumeLimit = 1,
+	customizationVariableMapping = {},
+
+	detailedDescription = "@wearables_detail:boots_tusken_raider",
+
+	gameObjectType = 16777222,
+
+	locationReservationRadius = 0,
+	lookAtText = "@wearables_lookat:boots_tusken_raider",
+
+	noBuildRadius = 0,
+
+	objectName = "@wearables_name:boots_tusken_raider",
+	onlyVisibleInTools = 0,
+
+	paletteColorCustomizationVariables = {},
+	portalLayoutFilename = "",
+
+	rangedIntCustomizationVariables = {},
+
+	scale = 1,
+	scaleThresholdBeforeExtentTest = 0.5,
+	sendToClient = 1,
+	slotDescriptorFilename = "abstract/slot/descriptor/tangible.iff",
+	snapToTerrain = 1,
+	socketDestinations = {},
+	structureFootprintFileName = "",
+	surfaceType = 0,
+
+	targetable = 1,
+	totalCellNumber = 0,
+
+	useStructureFootprintOutline = 0,
+
+	clientObjectCRC = 688070269,
+	derivedFromTemplates = {"object/object/base/shared_base_object.iff", "object/tangible/base/shared_tangible_base.iff", "object/tangible/base/shared_tangible_craftable.iff", "object/tangible/wearables/base/shared_wearables_base.iff", "object/tangible/wearables/base/shared_base_shoes.iff"}
+]]
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_wearables_boots_shared_boots_tusken_raider, "object/tangible/wearables/boots/shared_boots_tusken_raider.iff")
+
+object_tangible_wearables_boots_shared_nightsister_boots = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/wearables/boots/shared_nightsister_boots.iff"
+	--Data below here is deprecated and loaded from the tres, keeping for easy lookups
+--[[
+	appearanceFilename = "appearance/nightsister_boots_s01.sat",
+	arrangementDescriptorFilename = "abstract/slot/arrangement/wearables/shoe.iff",
+
+	certificationsRequired = {},
+	clearFloraRadius = 0,
+	clientDataFile = "",
+	clientGameObjectType = 16777222,
+	collisionActionBlockFlags = 0,
+	collisionActionFlags = 51,
+	collisionActionPassFlags = 1,
+	collisionMaterialBlockFlags = 0,
+	collisionMaterialFlags = 1,
+	collisionMaterialPassFlags = 0,
+	containerType = 0,
+	containerVolumeLimit = 1,
+	customizationVariableMapping = {},
+
+	detailedDescription = "@wearables_detail:nightsister_boots",
+
+	gameObjectType = 16777222,
+
+	locationReservationRadius = 0,
+	lookAtText = "@wearables_lookat:nightsister_boots",
+
+	noBuildRadius = 0,
+
+	objectName = "@wearables_name:nightsister_boots",
+	onlyVisibleInTools = 0,
+
+	paletteColorCustomizationVariables = {},
+	portalLayoutFilename = "",
+
+	rangedIntCustomizationVariables = {},
+
+	scale = 1,
+	scaleThresholdBeforeExtentTest = 0.5,
+	sendToClient = 1,
+	slotDescriptorFilename = "abstract/slot/descriptor/tangible.iff",
+	snapToTerrain = 1,
+	socketDestinations = {},
+	structureFootprintFileName = "",
+	surfaceType = 0,
+
+	targetable = 1,
+	totalCellNumber = 0,
+
+	useStructureFootprintOutline = 0,
+
+	clientObjectCRC = 1068365842,
+	derivedFromTemplates = {"object/object/base/shared_base_object.iff", "object/tangible/base/shared_tangible_base.iff", "object/tangible/base/shared_tangible_craftable.iff", "object/tangible/wearables/base/shared_wearables_base.iff", "object/tangible/wearables/base/shared_base_shoes.iff"}
+]]
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_wearables_boots_shared_nightsister_boots, "object/tangible/wearables/boots/shared_nightsister_boots.iff")
+
+object_tangible_wearables_boots_shared_singing_mountain_clan_boots = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/wearables/boots/shared_singing_mountain_clan_boots.iff"
+	--Data below here is deprecated and loaded from the tres, keeping for easy lookups
+--[[
+	appearanceFilename = "appearance/sing_mt_clan_boots_s01.sat",
+	arrangementDescriptorFilename = "abstract/slot/arrangement/wearables/shoe.iff",
+
+	certificationsRequired = {},
+	clearFloraRadius = 0,
+	clientDataFile = "",
+	clientGameObjectType = 16777222,
+	collisionActionBlockFlags = 0,
+	collisionActionFlags = 51,
+	collisionActionPassFlags = 1,
+	collisionMaterialBlockFlags = 0,
+	collisionMaterialFlags = 1,
+	collisionMaterialPassFlags = 0,
+	containerType = 0,
+	containerVolumeLimit = 1,
+	customizationVariableMapping = {},
+
+	detailedDescription = "@wearables_detail:singing_mountain_clan_boots",
+
+	gameObjectType = 16777222,
+
+	locationReservationRadius = 0,
+	lookAtText = "@wearables_lookat:singing_mountain_clan_boots",
+
+	noBuildRadius = 0,
+
+	objectName = "@wearables_name:singing_mountain_clan_boots",
+	onlyVisibleInTools = 0,
+
+	paletteColorCustomizationVariables = {},
+	portalLayoutFilename = "",
+
+	rangedIntCustomizationVariables = {},
+
+	scale = 1,
+	scaleThresholdBeforeExtentTest = 0.5,
+	sendToClient = 1,
+	slotDescriptorFilename = "abstract/slot/descriptor/tangible.iff",
+	snapToTerrain = 1,
+	socketDestinations = {},
+	structureFootprintFileName = "",
+	surfaceType = 0,
+
+	targetable = 1,
+	totalCellNumber = 0,
+
+	useStructureFootprintOutline = 0,
+
+	clientObjectCRC = 610961345,
+	derivedFromTemplates = {"object/object/base/shared_base_object.iff", "object/tangible/base/shared_tangible_base.iff", "object/tangible/base/shared_tangible_craftable.iff", "object/tangible/wearables/base/shared_wearables_base.iff", "object/tangible/wearables/base/shared_base_shoes.iff"}
+]]
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_wearables_boots_shared_singing_mountain_clan_boots, "object/tangible/wearables/boots/shared_singing_mountain_clan_boots.iff")

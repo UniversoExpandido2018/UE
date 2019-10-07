@@ -1,0 +1,45 @@
+jundak_ravenous = Creature:new {
+	objectName = "@mob/creature_names:jundak_ravenous",
+	-- customName = "a jundak ravenous",
+	socialGroup = "baz_nitch",
+	faction = "",
+	level = 62,
+	chanceHit = 0.83,
+	damageMin = 460,
+	damageMax = 580,
+	baseXp = 3750,
+	baseHAM = 11200,
+	baseHAMmax = 14200,
+	armor = 1,
+	-- (Kinetic, Energy, Blast, Heat, Cold, Electricity, Acid, Stun, Lightsaber)
+	resists = {120,120,140,-1,160,170,-1,-1,-1},
+	meatType = "meat_insect",
+	meatAmount = 30,
+	hideType = "hide_scaley",
+	hideAmount = 40,
+	boneType = "",
+	boneAmount = 0,
+	milk = 0,
+	tamingChance = 0,
+	ferocity = 8,
+	pvpBitmask = AGGRESSIVE + ATTACKABLE + ENEMY,
+	creatureBitmask = PACK + KILLER + STALKER,
+	optionsBitmask = AIENABLED,
+	diet = CARNIVORE,
+
+	templates = {"object/mobile/jundak.iff"},
+	scale = 0.95,
+	lootGroups = {},
+	weapons = {},
+	conversationTemplate = "",
+	attacks = {
+		{"",""},
+		{"intimidationattack","intimidationChance=30"},
+		{"creatureareableeding",""},
+		{"blindattack",""},
+--		{"stunattack","stunChance=50"},
+--		{"knockdownattack","knockdownChance=95"},
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(jundak_ravenous, "jundak_ravenous")

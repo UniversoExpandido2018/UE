@@ -1,0 +1,41 @@
+icetromper_female = Creature:new {
+	objectName = "@mob/creature_names:icetromper_female",
+	socialGroup = "malkloc",
+	faction = "",
+	level = 69,
+	chanceHit = 1.81,
+	damageMin = 440,
+	damageMax = 780,
+	baseXp = 9122,
+	baseHAM = 27200,
+	baseHAMmax = 36000,
+	armor = 0,
+	resists = {75,75,75,75,75,75,75,75,-1},
+	meatType = "meat_herbivore",
+	meatAmount = 900,
+	hideType = "hide_leathery",
+	hideAmount = 900,
+	boneType = "bone_mammal",
+	boneAmount = 900,
+	milk = 120,
+	tamingChance = 0,
+	ferocity = 4,
+	pvpBitmask = ATTACKABLE,
+	creatureBitmask = PACK + HERD,
+	optionsBitmask = AIENABLED,
+	diet = HERVIVORE,
+
+	templates = {"object/mobile/icetromper.iff"},
+	scale = 3.1,
+	lootGroups = {},
+	weapons = {},
+	conversationTemplate = "",
+	attacks = {
+		{"",""},
+		{"knockdownattack","knockdownChance=85"},
+		{"stunattack","stunChance=75"},
+		{"creatureareaattack",""},
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(icetromper_female, "icetromper_female")

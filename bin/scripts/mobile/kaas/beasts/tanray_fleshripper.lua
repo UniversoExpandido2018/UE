@@ -1,0 +1,47 @@
+tanray_fleshripper = Creature:new {
+	objectName = "@mob/creature_names:tanray_fleshripper",
+	-- customName = "a tanray ripper",
+	socialGroup = "choku",
+	faction = "",
+	level = 78,
+	chanceHit = 1,
+	damageMin = 415,
+	damageMax = 745,
+	baseXp = 7350,
+	baseHAM = 8600,
+	baseHAMmax = 12500,
+	armor = 1,
+	-- (Kinetic, Energy, Blast, Heat, Cold, Electricity, Acid, Stun, Lightsaber)
+	resists = {170,170,20,10,30,10,10,20,-1},
+	meatType = "meat_avian",
+	meatAmount = 45,
+	hideType = "",
+	hideAmount = 0,
+	boneType = "bone_avian",
+	boneAmount = 55,
+	milk = 0,
+	tamingChance = 0,
+	ferocity = 0,
+	pvpBitmask = AGGRESSIVE + ATTACKABLE + ENEMY,
+	creatureBitmask = PACK + KILLER + STALKER,
+	optionsBitmask = AIENABLED,
+	diet = CARNIVORE,
+
+	templates = {"object/mobile/tanray.iff"},
+	scale = 0.15,
+	lootGroups = {},
+	weapons = {},
+	conversationTemplate = "",
+	attacks = {
+			{"",""},
+--		{"intimidationattack","intimidationChance=50"},
+  		{"creatureareableeding",""},
+--		{"blindattack",""},
+	  	{"stunattack","stunChance=75"},
+--		{"knockdownattack","knockdownChance=95"},
+--		{"mediumpoison",""},
+		  {"posturedownattack",""},
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(tanray_fleshripper, "tanray_fleshripper")

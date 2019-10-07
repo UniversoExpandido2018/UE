@@ -1,0 +1,42 @@
+blistmok_forest = Creature:new {
+	objectName = "@mob/creature_names:blistmok_forest",
+	-- customName = "a forest blistmok",
+	socialGroup = "blurrg",
+	faction = "",
+	level = 52,
+	chanceHit = 0.84,
+	damageMin = 470,
+	damageMax = 510,
+	baseXp = 3005,
+	baseHAM = 6900,
+	baseHAMmax = 8200,
+	armor = 0,
+	resists = {100,100,20,20,15,15,20,-1,-1},
+	meatType = "meat_carnivore",
+	meatAmount = 100,
+	hideType = "hide_leathery",
+	hideAmount = 95,
+	boneType = "bone_avian",
+	boneAmount = 90,
+	milk = 0,
+	tamingChance = 0,
+	ferocity = 1,
+	pvpBitmask = AGGRESSIVE + ATTACKABLE + ENEMY,
+	creatureBitmask = PACK + KILLER,
+	optionsBitmask = AIENABLED,
+	diet = CARNIVORE,
+
+	templates = {"object/mobile/blistmok.iff"},
+	lootGroups = {},
+	weapons = {},
+	conversationTemplate = "",
+	attacks = {
+		{"",""},
+		{"intimidationattack","intimidationChance=40"},
+	--	{"strongdisease",""},
+--		{"stunattack","stunChance=50"},
+--		{"knockdownattack","knockdownChance=95"},
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(blistmok_forest, "blistmok_forest")

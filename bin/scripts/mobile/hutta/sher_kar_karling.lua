@@ -1,0 +1,53 @@
+karling = Creature:new {
+	objectName = "@mob/creature_names:sher_kar_karling",
+--	customName = "a karling",
+	socialGroup = "spider",
+	faction = "",
+	level = 69,
+	chanceHit = 0.89,
+	damageMin = 560,
+	damageMax = 765,
+	baseXp = 5497,
+	baseHAM = 7500,
+	baseHAMmax = 8100,
+	armor = 0,
+	-- (Kinetic, Energy, Blast, Heat, Cold, Electricity, Acid, Stun, Lightsaber)
+	resists = {55,55,55,110,55,55,55,55,-1},
+	meatType = "meat_insect",
+	meatAmount = 35,
+	hideType = "hide_scaley",
+	hideAmount = 60,
+	boneType = "",
+	boneAmount = 0,
+	milk = 0,
+--	tamingChance = 0.25,
+	ferocity = 2,
+	pvpBitmask = AGGRESSIVE + ATTACKABLE + ENEMY,
+	creatureBitmask = PACK + KILLER,
+	optionsBitmask = AIENABLED,
+	diet = CARNIVORE,
+
+	templates = {"object/mobile/sher_kar2.iff"},
+	scale = 0.15,
+lootGroups = {},
+
+--	weapons = {"creature_spit_small_toxicgreen"},
+	weapons = {},
+	conversationTemplate = "",
+	attacks = {
+			{"",""},
+--		{"strongpoison",""},
+--		{"blindattack",""},
+--	  {"intimidationattack",""},
+--		{"stunattack",""},
+--		  {"posturedownattack",""},
+--		{"creatureareadisease",""},
+--    {"dizzyattack",""},
+		  {"knockdownattack",""},
+--		{"creatureareapoison",""},
+--    {"creatureareaattack",""},
+      {"mediumpoison",""},
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(karling, "karling")

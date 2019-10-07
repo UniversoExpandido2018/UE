@@ -1,0 +1,2076 @@
+Sat Aug 10 19:36:16 2019 [1565458576238 msec] (64 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_security_guard_noaggro
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:248: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:16 2019 [1565458576676 msec] (64 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_security_guard_noaggro
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:250: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:17 2019 [1565458577125 msec] (64 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_security_guard_noaggro
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:254: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:17 2019 [1565458577575 msec] (65 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_security_guard_noaggro
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:256: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:18 2019 [1565458578373 msec] (66 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_security_guard_noaggro
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:258: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:19 2019 [1565458579125 msec] (66 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_security_guard_noaggro
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:261: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:19 2019 [1565458579581 msec] (67 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:313: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:20 2019 [1565458580061 msec] (67 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:322: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:20 2019 [1565458580520 msec] (68 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:325: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:20 2019 [1565458580994 msec] (68 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:341: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:21 2019 [1565458581428 msec] (69 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:344: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:21 2019 [1565458581878 msec] (69 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:366: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:22 2019 [1565458582350 msec] (70 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:369: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:22 2019 [1565458582781 msec] (70 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:372: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:23 2019 [1565458583223 msec] (71 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:375: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:23 2019 [1565458583681 msec] (71 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:387: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:24 2019 [1565458584121 msec] (71 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:390: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:24 2019 [1565458584568 msec] (72 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:420: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:25 2019 [1565458585030 msec] (72 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:435: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:25 2019 [1565458585476 msec] (73 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:467: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:25 2019 [1565458585914 msec] (73 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:469: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:26 2019 [1565458586349 msec] (74 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:471: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:26 2019 [1565458586794 msec] (74 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:473: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:27 2019 [1565458587244 msec] (75 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:475: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:27 2019 [1565458587690 msec] (75 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:477: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:28 2019 [1565458588150 msec] (75 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:479: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:28 2019 [1565458588594 msec] (76 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:481: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:29 2019 [1565458589031 msec] (76 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:483: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:29 2019 [1565458589466 msec] (77 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:485: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:29 2019 [1565458589899 msec] (77 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:487: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:30 2019 [1565458590331 msec] (78 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:489: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:31 2019 [1565458591107 msec] (78 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:491: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:31 2019 [1565458591537 msec] (79 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:493: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:31 2019 [1565458591968 msec] (79 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:495: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:32 2019 [1565458592398 msec] (80 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:497: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:32 2019 [1565458592825 msec] (80 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:499: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:33 2019 [1565458593250 msec] (81 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:501: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:33 2019 [1565458593674 msec] (81 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:503: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:34 2019 [1565458594101 msec] (81 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:505: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:34 2019 [1565458594539 msec] (82 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:507: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:34 2019 [1565458594964 msec] (82 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:509: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:35 2019 [1565458595388 msec] (83 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:511: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:35 2019 [1565458595815 msec] (83 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:513: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:36 2019 [1565458596244 msec] (84 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:515: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:36 2019 [1565458596672 msec] (84 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:517: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:37 2019 [1565458597102 msec] (84 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:519: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:37 2019 [1565458597530 msec] (85 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:521: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:37 2019 [1565458597959 msec] (85 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:523: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:38 2019 [1565458598386 msec] (86 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:525: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:38 2019 [1565458598816 msec] (86 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:527: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:39 2019 [1565458599249 msec] (87 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:529: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:39 2019 [1565458599674 msec] (87 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:531: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:40 2019 [1565458600103 msec] (87 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:533: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:40 2019 [1565458600535 msec] (88 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:535: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:40 2019 [1565458600963 msec] (88 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:537: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:41 2019 [1565458601390 msec] (89 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:539: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:41 2019 [1565458601821 msec] (89 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:541: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:42 2019 [1565458602252 msec] (90 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:543: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:42 2019 [1565458602678 msec] (90 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:545: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:43 2019 [1565458603113 msec] (90 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:547: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:43 2019 [1565458603540 msec] (91 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:549: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:43 2019 [1565458603969 msec] (91 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:551: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:44 2019 [1565458604394 msec] (92 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:553: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:44 2019 [1565458604819 msec] (92 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:555: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:45 2019 [1565458605244 msec] (93 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:557: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:45 2019 [1565458605672 msec] (93 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:559: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:46 2019 [1565458606100 msec] (93 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:561: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:46 2019 [1565458606531 msec] (94 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:563: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:46 2019 [1565458606965 msec] (94 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:565: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:47 2019 [1565458607422 msec] (95 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:567: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:47 2019 [1565458607851 msec] (95 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:569: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:48 2019 [1565458608289 msec] (96 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:571: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:48 2019 [1565458608732 msec] (96 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:573: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:49 2019 [1565458609178 msec] (96 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:575: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:49 2019 [1565458609605 msec] (97 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:577: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:50 2019 [1565458610035 msec] (97 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:579: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:50 2019 [1565458610465 msec] (98 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:581: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:50 2019 [1565458610895 msec] (98 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:583: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:51 2019 [1565458611331 msec] (99 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:585: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:51 2019 [1565458611789 msec] (99 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:587: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:52 2019 [1565458612223 msec] (100 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:589: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:52 2019 [1565458612663 msec] (100 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:591: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:53 2019 [1565458613101 msec] (100 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:593: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:53 2019 [1565458613578 msec] (101 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:595: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:54 2019 [1565458614160 msec] (101 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:597: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:54 2019 [1565458614591 msec] (102 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:599: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:55 2019 [1565458615029 msec] (102 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:601: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:55 2019 [1565458615467 msec] (103 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:603: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:55 2019 [1565458615902 msec] (103 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:605: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:56 2019 [1565458616352 msec] (104 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:607: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:56 2019 [1565458616786 msec] (104 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:609: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:57 2019 [1565458617224 msec] (105 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:611: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:57 2019 [1565458617651 msec] (105 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:613: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:58 2019 [1565458618087 msec] (105 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:615: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:58 2019 [1565458618521 msec] (106 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:617: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:58 2019 [1565458618957 msec] (106 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:619: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:59 2019 [1565458619398 msec] (107 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:621: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:36:59 2019 [1565458619858 msec] (107 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:623: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:00 2019 [1565458620283 msec] (108 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:625: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:00 2019 [1565458620706 msec] (108 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:627: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:01 2019 [1565458621129 msec] (108 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:629: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:01 2019 [1565458621574 msec] (109 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:631: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:02 2019 [1565458622005 msec] (109 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:633: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:02 2019 [1565458622450 msec] (110 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:635: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:02 2019 [1565458622902 msec] (110 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:637: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:03 2019 [1565458623350 msec] (111 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:639: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:03 2019 [1565458623795 msec] (111 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:641: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:04 2019 [1565458624228 msec] (112 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:643: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:04 2019 [1565458624652 msec] (112 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:645: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:05 2019 [1565458625081 msec] (112 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:647: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:05 2019 [1565458625505 msec] (113 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:649: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:05 2019 [1565458625929 msec] (113 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:651: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:06 2019 [1565458626353 msec] (114 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:653: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:06 2019 [1565458626778 msec] (114 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:655: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:07 2019 [1565458627201 msec] (114 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:657: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:07 2019 [1565458627627 msec] (115 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:659: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:08 2019 [1565458628053 msec] (115 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:661: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:08 2019 [1565458628477 msec] (116 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:663: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:08 2019 [1565458628904 msec] (116 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:665: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:09 2019 [1565458629330 msec] (117 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:667: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:09 2019 [1565458629754 msec] (117 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:669: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:10 2019 [1565458630183 msec] (117 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:671: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:10 2019 [1565458630613 msec] (118 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:673: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:11 2019 [1565458631047 msec] (118 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:675: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:11 2019 [1565458631506 msec] (119 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:677: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:11 2019 [1565458631940 msec] (119 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:679: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:12 2019 [1565458632368 msec] (120 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:681: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:12 2019 [1565458632843 msec] (120 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:683: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:13 2019 [1565458633275 msec] (121 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:685: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:14 2019 [1565458634206 msec] (122 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:687: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:14 2019 [1565458634634 msec] (122 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:689: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:15 2019 [1565458635071 msec] (122 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:691: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:15 2019 [1565458635506 msec] (123 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:693: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:15 2019 [1565458635948 msec] (123 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:695: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:16 2019 [1565458636373 msec] (124 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:697: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:37:16 2019 [1565458636833 msec] (124 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:699: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:21 2019 [1565458761453 msec] (64 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_security_guard_noaggro
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:248: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:21 2019 [1565458761882 msec] (64 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_security_guard_noaggro
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:250: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:22 2019 [1565458762883 msec] (65 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_security_guard_noaggro
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:254: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:23 2019 [1565458763325 msec] (66 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_security_guard_noaggro
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:256: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:23 2019 [1565458763767 msec] (66 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_security_guard_noaggro
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:258: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:24 2019 [1565458764215 msec] (67 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_security_guard_noaggro
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:261: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:24 2019 [1565458764969 msec] (67 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:313: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:25 2019 [1565458765404 msec] (68 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:322: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:25 2019 [1565458765840 msec] (68 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:325: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:26 2019 [1565458766540 msec] (69 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:341: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:26 2019 [1565458766997 msec] (70 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:344: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:27 2019 [1565458767435 msec] (70 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:366: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:27 2019 [1565458767862 msec] (70 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:369: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:29 2019 [1565458769364 msec] (72 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:372: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:29 2019 [1565458769792 msec] (72 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:375: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:30 2019 [1565458770250 msec] (73 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:387: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:30 2019 [1565458770694 msec] (73 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:390: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:31 2019 [1565458771137 msec] (74 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:420: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:31 2019 [1565458771610 msec] (74 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile chandriltech_contractor
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:435: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:32 2019 [1565458772048 msec] (75 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:467: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:32 2019 [1565458772485 msec] (75 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:469: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:32 2019 [1565458772919 msec] (75 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:471: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:33 2019 [1565458773351 msec] (76 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:473: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:33 2019 [1565458773790 msec] (76 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:475: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:34 2019 [1565458774222 msec] (77 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:477: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:34 2019 [1565458774671 msec] (77 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:479: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:35 2019 [1565458775136 msec] (78 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:481: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:35 2019 [1565458775568 msec] (78 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:483: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:36 2019 [1565458776003 msec] (79 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:485: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:36 2019 [1565458776434 msec] (79 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:487: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:36 2019 [1565458776900 msec] (79 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:489: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:37 2019 [1565458777348 msec] (80 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:491: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:37 2019 [1565458777777 msec] (80 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:493: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:38 2019 [1565458778226 msec] (81 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:495: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:38 2019 [1565458778655 msec] (81 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:497: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:39 2019 [1565458779093 msec] (82 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:499: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:39 2019 [1565458779526 msec] (82 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:501: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:39 2019 [1565458779957 msec] (82 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:503: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:40 2019 [1565458780388 msec] (83 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:505: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:40 2019 [1565458780817 msec] (83 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:507: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:41 2019 [1565458781245 msec] (84 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:509: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:41 2019 [1565458781693 msec] (84 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:511: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:42 2019 [1565458782126 msec] (85 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:513: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:42 2019 [1565458782571 msec] (85 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:515: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:43 2019 [1565458783017 msec] (86 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:517: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:43 2019 [1565458783450 msec] (86 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:519: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:43 2019 [1565458783877 msec] (86 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:521: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:44 2019 [1565458784301 msec] (87 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:523: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:44 2019 [1565458784733 msec] (87 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:525: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:45 2019 [1565458785168 msec] (88 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:527: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:45 2019 [1565458785598 msec] (88 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:529: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:46 2019 [1565458786030 msec] (89 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:531: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:46 2019 [1565458786463 msec] (89 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:533: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:46 2019 [1565458786892 msec] (89 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:535: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:47 2019 [1565458787324 msec] (90 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:537: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:47 2019 [1565458787755 msec] (90 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:539: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:48 2019 [1565458788189 msec] (91 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:541: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:48 2019 [1565458788615 msec] (91 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:543: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:49 2019 [1565458789044 msec] (92 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:545: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:49 2019 [1565458789474 msec] (92 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:547: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:49 2019 [1565458789914 msec] (92 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:549: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:50 2019 [1565458790350 msec] (93 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:551: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:50 2019 [1565458790784 msec] (93 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:553: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:51 2019 [1565458791207 msec] (94 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:555: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:51 2019 [1565458791643 msec] (94 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:557: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:52 2019 [1565458792081 msec] (95 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:559: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:52 2019 [1565458792515 msec] (95 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:561: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:52 2019 [1565458792956 msec] (95 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:563: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:53 2019 [1565458793398 msec] (96 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:565: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:53 2019 [1565458793840 msec] (96 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:567: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:54 2019 [1565458794280 msec] (97 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:569: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:54 2019 [1565458794725 msec] (97 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:571: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:55 2019 [1565458795202 msec] (98 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:573: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:55 2019 [1565458795645 msec] (98 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:575: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:56 2019 [1565458796068 msec] (99 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:577: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:56 2019 [1565458796489 msec] (99 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:579: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:56 2019 [1565458796917 msec] (99 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:581: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:57 2019 [1565458797343 msec] (100 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:583: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:57 2019 [1565458797767 msec] (100 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:585: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:58 2019 [1565458798191 msec] (101 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:587: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:58 2019 [1565458798615 msec] (101 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:589: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:59 2019 [1565458799051 msec] (102 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:591: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:59 2019 [1565458799476 msec] (102 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:593: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:39:59 2019 [1565458799907 msec] (102 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:595: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:00 2019 [1565458800335 msec] (103 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:597: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:00 2019 [1565458800765 msec] (103 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:599: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:01 2019 [1565458801186 msec] (104 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:601: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:01 2019 [1565458801610 msec] (104 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:603: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:02 2019 [1565458802037 msec] (105 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:605: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:02 2019 [1565458802456 msec] (105 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:607: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:02 2019 [1565458802882 msec] (105 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:609: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:03 2019 [1565458803311 msec] (106 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:611: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:03 2019 [1565458803749 msec] (106 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:613: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:04 2019 [1565458804172 msec] (107 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:615: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:04 2019 [1565458804596 msec] (107 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:617: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:05 2019 [1565458805022 msec] (108 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:619: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:05 2019 [1565458805452 msec] (108 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:621: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:05 2019 [1565458805885 msec] (108 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:623: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:06 2019 [1565458806310 msec] (109 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:625: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:06 2019 [1565458806735 msec] (109 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:627: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:07 2019 [1565458807156 msec] (110 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:629: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:07 2019 [1565458807584 msec] (110 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:631: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:08 2019 [1565458808014 msec] (111 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:633: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:08 2019 [1565458808438 msec] (111 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:635: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:08 2019 [1565458808861 msec] (111 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:637: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:09 2019 [1565458809293 msec] (112 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:639: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:09 2019 [1565458809719 msec] (112 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:641: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:10 2019 [1565458810143 msec] (113 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:643: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:10 2019 [1565458810569 msec] (113 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:645: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:10 2019 [1565458810999 msec] (114 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:647: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:11 2019 [1565458811433 msec] (114 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:649: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:11 2019 [1565458811863 msec] (114 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:651: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:12 2019 [1565458812288 msec] (115 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:653: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:12 2019 [1565458812713 msec] (115 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:655: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:13 2019 [1565458813136 msec] (116 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:657: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:13 2019 [1565458813559 msec] (116 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:659: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:13 2019 [1565458813984 msec] (116 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:661: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:14 2019 [1565458814407 msec] (117 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:663: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:14 2019 [1565458814848 msec] (117 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:665: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:15 2019 [1565458815314 msec] (118 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:667: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:15 2019 [1565458815753 msec] (118 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:669: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:16 2019 [1565458816184 msec] (119 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:671: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:16 2019 [1565458816613 msec] (119 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:673: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:17 2019 [1565458817055 msec] (120 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:675: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:17 2019 [1565458817502 msec] (120 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:677: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:17 2019 [1565458817938 msec] (120 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:679: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:18 2019 [1565458818379 msec] (121 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:681: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:18 2019 [1565458818822 msec] (121 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:683: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:19 2019 [1565458819245 msec] (122 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:685: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:19 2019 [1565458819674 msec] (122 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:687: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:20 2019 [1565458820138 msec] (123 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:689: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:20 2019 [1565458820571 msec] (123 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:691: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:21 2019 [1565458821015 msec] (124 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:693: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:21 2019 [1565458821449 msec] (124 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:695: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:21 2019 [1565458821874 msec] (124 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:697: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:40:22 2019 [1565458822308 msec] (125 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:699: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:12 2019 [1565459592648 msec] (79 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:467: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:13 2019 [1565459593462 msec] (80 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:469: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:13 2019 [1565459593899 msec] (81 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:471: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:14 2019 [1565459594347 msec] (81 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:473: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:14 2019 [1565459594804 msec] (82 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:475: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:15 2019 [1565459595235 msec] (82 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:477: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:15 2019 [1565459595674 msec] (82 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:479: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:16 2019 [1565459596121 msec] (83 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:481: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:16 2019 [1565459596574 msec] (83 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:483: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:17 2019 [1565459597001 msec] (84 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:485: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:17 2019 [1565459597597 msec] (84 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:487: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:18 2019 [1565459598033 msec] (85 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:489: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:18 2019 [1565459598472 msec] (85 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:491: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:18 2019 [1565459598916 msec] (86 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:493: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:19 2019 [1565459599353 msec] (86 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:495: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:20 2019 [1565459600286 msec] (87 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:497: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:20 2019 [1565459600724 msec] (87 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:499: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:21 2019 [1565459601168 msec] (88 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:501: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:21 2019 [1565459601609 msec] (88 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:503: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:22 2019 [1565459602054 msec] (89 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:505: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:22 2019 [1565459602809 msec] (90 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:507: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:23 2019 [1565459603250 msec] (90 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:509: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:23 2019 [1565459603690 msec] (90 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:511: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:24 2019 [1565459604125 msec] (91 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:513: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:24 2019 [1565459604576 msec] (91 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:515: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:25 2019 [1565459605013 msec] (92 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:517: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:25 2019 [1565459605444 msec] (92 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:519: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:25 2019 [1565459605880 msec] (93 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:521: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:26 2019 [1565459606317 msec] (93 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:523: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:26 2019 [1565459606747 msec] (93 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:525: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:27 2019 [1565459607181 msec] (94 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:527: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:27 2019 [1565459607623 msec] (94 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:529: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:28 2019 [1565459608064 msec] (95 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:531: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:28 2019 [1565459608524 msec] (95 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:533: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:28 2019 [1565459608978 msec] (96 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:535: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:29 2019 [1565459609411 msec] (96 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:537: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:29 2019 [1565459609868 msec] (97 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:539: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:30 2019 [1565459610314 msec] (97 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:541: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:30 2019 [1565459610755 msec] (97 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:543: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:31 2019 [1565459611195 msec] (98 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:545: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:31 2019 [1565459611625 msec] (98 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:547: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:32 2019 [1565459612060 msec] (99 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:549: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:32 2019 [1565459612500 msec] (99 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:551: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:32 2019 [1565459612948 msec] (100 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:553: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:33 2019 [1565459613393 msec] (100 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:555: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:33 2019 [1565459613822 msec] (101 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:557: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:34 2019 [1565459614256 msec] (101 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:559: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:34 2019 [1565459614692 msec] (101 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:561: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:35 2019 [1565459615127 msec] (102 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:563: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:35 2019 [1565459615555 msec] (102 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:565: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:35 2019 [1565459615987 msec] (103 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:567: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:36 2019 [1565459616417 msec] (103 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:569: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:36 2019 [1565459616849 msec] (104 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:571: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:37 2019 [1565459617289 msec] (104 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:573: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:37 2019 [1565459617716 msec] (104 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:575: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:38 2019 [1565459618147 msec] (105 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:577: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:38 2019 [1565459618577 msec] (105 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:579: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:39 2019 [1565459619008 msec] (106 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:581: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:39 2019 [1565459619440 msec] (106 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:583: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:39 2019 [1565459619880 msec] (107 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:585: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:40 2019 [1565459620315 msec] (107 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:587: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:40 2019 [1565459620754 msec] (107 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:589: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:41 2019 [1565459621184 msec] (108 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:591: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:41 2019 [1565459621627 msec] (108 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:593: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:42 2019 [1565459622072 msec] (109 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:595: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:42 2019 [1565459622527 msec] (109 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:597: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:42 2019 [1565459622962 msec] (110 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:599: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:43 2019 [1565459623391 msec] (110 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:601: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:43 2019 [1565459623861 msec] (111 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:603: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:44 2019 [1565459624315 msec] (111 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:605: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:44 2019 [1565459624772 msec] (111 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:607: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:45 2019 [1565459625208 msec] (112 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:609: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:45 2019 [1565459625632 msec] (112 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:611: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:46 2019 [1565459626055 msec] (113 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:613: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:46 2019 [1565459626495 msec] (113 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:615: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:46 2019 [1565459626931 msec] (114 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:617: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:47 2019 [1565459627362 msec] (114 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:619: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:47 2019 [1565459627796 msec] (115 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:621: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:48 2019 [1565459628227 msec] (115 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:623: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:48 2019 [1565459628664 msec] (115 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:625: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:49 2019 [1565459629111 msec] (116 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:627: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:49 2019 [1565459629545 msec] (116 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:629: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:49 2019 [1565459629976 msec] (117 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:631: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:50 2019 [1565459630418 msec] (117 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:633: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:50 2019 [1565459630846 msec] (118 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:635: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:51 2019 [1565459631290 msec] (118 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:637: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:51 2019 [1565459631719 msec] (118 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:639: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:52 2019 [1565459632175 msec] (119 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:641: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:52 2019 [1565459632620 msec] (119 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:643: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:53 2019 [1565459633052 msec] (120 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:645: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:53 2019 [1565459633489 msec] (120 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:647: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:53 2019 [1565459633918 msec] (121 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:649: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:54 2019 [1565459634356 msec] (121 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:651: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:54 2019 [1565459634821 msec] (122 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:653: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:55 2019 [1565459635254 msec] (122 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:655: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:55 2019 [1565459635680 msec] (122 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:657: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:56 2019 [1565459636111 msec] (123 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:659: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:56 2019 [1565459636539 msec] (123 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:661: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:56 2019 [1565459636971 msec] (124 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:663: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:57 2019 [1565459637408 msec] (124 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:665: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:57 2019 [1565459637842 msec] (125 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:667: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:58 2019 [1565459638286 msec] (125 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:669: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:58 2019 [1565459638718 msec] (125 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:671: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:59 2019 [1565459639166 msec] (126 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:673: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:53:59 2019 [1565459639598 msec] (126 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:675: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:54:00 2019 [1565459640031 msec] (127 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:677: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:54:00 2019 [1565459640486 msec] (127 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:679: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:54:00 2019 [1565459640944 msec] (128 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:681: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:54:01 2019 [1565459641374 msec] (128 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:683: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:54:01 2019 [1565459641811 msec] (129 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:685: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:54:02 2019 [1565459642255 msec] (129 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:687: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:54:02 2019 [1565459642702 msec] (129 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:689: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:54:03 2019 [1565459643145 msec] (130 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:691: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:54:03 2019 [1565459643584 msec] (130 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:693: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:54:04 2019 [1565459644023 msec] (131 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:695: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:54:04 2019 [1565459644473 msec] (131 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:697: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sat Aug 10 19:54:04 2019 [1565459644907 msec] (132 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_trooper_inactive
+stack traceback:
+	[C]: in function 'spawnMobile'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:699: in method 'spawnMobiles'
+	...creenplays/chandrila/chandrila_chandriltech_facility.lua:13: in function <...creenplays/chandrila/chandrila_chandriltech_facility.lua:11>
+Sun Aug 11 12:31:45 2019 [1565519505122 msec] (79 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile sith_ghost
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:45: in method 'spawnMobiles'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:10: in function <scripts/screenplays/poi/kaas_vitiate_tomb.lua:9>
+Sun Aug 11 12:31:46 2019 [1565519506433 msec] (80 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile sith_ghost
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:47: in method 'spawnMobiles'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:10: in function <scripts/screenplays/poi/kaas_vitiate_tomb.lua:9>
+Sun Aug 11 12:31:46 2019 [1565519506860 msec] (81 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile sith_ghost
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:49: in method 'spawnMobiles'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:10: in function <scripts/screenplays/poi/kaas_vitiate_tomb.lua:9>
+Sun Aug 11 12:31:53 2019 [1565519513518 msec] (87 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile sith_ghost
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:52: in method 'spawnMobiles'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:10: in function <scripts/screenplays/poi/kaas_vitiate_tomb.lua:9>
+Sun Aug 11 12:31:53 2019 [1565519513953 msec] (88 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile sith_ghost
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:54: in method 'spawnMobiles'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:10: in function <scripts/screenplays/poi/kaas_vitiate_tomb.lua:9>
+Sun Aug 11 12:31:54 2019 [1565519514378 msec] (88 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile sith_ghost
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:57: in method 'spawnMobiles'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:10: in function <scripts/screenplays/poi/kaas_vitiate_tomb.lua:9>
+Sun Aug 11 12:31:54 2019 [1565519514814 msec] (89 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile sith_ghost
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:58: in method 'spawnMobiles'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:10: in function <scripts/screenplays/poi/kaas_vitiate_tomb.lua:9>
+Sun Aug 11 12:31:55 2019 [1565519515242 msec] (89 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile sith_ghost
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:60: in method 'spawnMobiles'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:10: in function <scripts/screenplays/poi/kaas_vitiate_tomb.lua:9>
+Sun Aug 11 12:31:55 2019 [1565519515673 msec] (89 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile sith_ghost
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:61: in method 'spawnMobiles'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:10: in function <scripts/screenplays/poi/kaas_vitiate_tomb.lua:9>
+Sun Aug 11 12:31:56 2019 [1565519516112 msec] (90 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile sith_ghost
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:63: in method 'spawnMobiles'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:10: in function <scripts/screenplays/poi/kaas_vitiate_tomb.lua:9>
+Sun Aug 11 12:31:56 2019 [1565519516535 msec] (90 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile sith_ghost
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:64: in method 'spawnMobiles'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:10: in function <scripts/screenplays/poi/kaas_vitiate_tomb.lua:9>
+Sun Aug 11 12:32:07 2019 [1565519527223 msec] (101 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile dark_jedi_voice
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_city_ruins_mellichae.lua:20: in method 'spawnMobiles'
+	scripts/screenplays/poi/kaas_city_ruins_mellichae.lua:14: in function <scripts/screenplays/poi/kaas_city_ruins_mellichae.lua:12>
+Sun Aug 11 12:47:53 2019 [1565520473905 msec] (55 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile sith_ghost
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:45: in method 'spawnMobiles'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:10: in function <scripts/screenplays/poi/kaas_vitiate_tomb.lua:9>
+Sun Aug 11 12:47:54 2019 [1565520474343 msec] (55 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile sith_ghost
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:47: in method 'spawnMobiles'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:10: in function <scripts/screenplays/poi/kaas_vitiate_tomb.lua:9>
+Sun Aug 11 12:47:54 2019 [1565520474772 msec] (56 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile sith_ghost
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:49: in method 'spawnMobiles'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:10: in function <scripts/screenplays/poi/kaas_vitiate_tomb.lua:9>
+Sun Aug 11 12:47:55 2019 [1565520475206 msec] (56 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile sith_ghost
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:52: in method 'spawnMobiles'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:10: in function <scripts/screenplays/poi/kaas_vitiate_tomb.lua:9>
+Sun Aug 11 12:47:55 2019 [1565520475637 msec] (57 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile sith_ghost
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:54: in method 'spawnMobiles'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:10: in function <scripts/screenplays/poi/kaas_vitiate_tomb.lua:9>
+Sun Aug 11 12:47:56 2019 [1565520476066 msec] (57 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile sith_ghost
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:57: in method 'spawnMobiles'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:10: in function <scripts/screenplays/poi/kaas_vitiate_tomb.lua:9>
+Sun Aug 11 12:47:56 2019 [1565520476499 msec] (57 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile sith_ghost
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:58: in method 'spawnMobiles'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:10: in function <scripts/screenplays/poi/kaas_vitiate_tomb.lua:9>
+Sun Aug 11 12:47:56 2019 [1565520476940 msec] (58 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile sith_ghost
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:60: in method 'spawnMobiles'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:10: in function <scripts/screenplays/poi/kaas_vitiate_tomb.lua:9>
+Sun Aug 11 12:47:57 2019 [1565520477379 msec] (58 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile sith_ghost
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:61: in method 'spawnMobiles'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:10: in function <scripts/screenplays/poi/kaas_vitiate_tomb.lua:9>
+Sun Aug 11 12:47:57 2019 [1565520477803 msec] (59 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile sith_ghost
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:63: in method 'spawnMobiles'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:10: in function <scripts/screenplays/poi/kaas_vitiate_tomb.lua:9>
+Sun Aug 11 12:47:58 2019 [1565520478231 msec] (59 s) Thread 1 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile sith_ghost
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:64: in method 'spawnMobiles'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:10: in function <scripts/screenplays/poi/kaas_vitiate_tomb.lua:9>
+Sun Aug 11 12:57:57 2019 [1565521077879 msec] (659 s) Thread 7 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile sith_ghost
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:100: in local 'performThisFunction'
+	scripts/managers/object/object_manager.lua:315: in function 'managers.object.object_manager.withCreatureObject'
+	(...tail calls...)
+Sun Aug 11 12:57:58 2019 [1565521078345 msec] (659 s) Thread 7 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile sith_ghost
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_vitiate_tomb.lua:107: in local 'performThisFunction'
+	scripts/managers/object/object_manager.lua:315: in function 'managers.object.object_manager.withCreatureObject'
+	(...tail calls...)
+Sun Aug 11 13:30:59 2019 [1565523059329 msec] (2640 s) Thread 9 - [DirectorManagerLuaInstance] ERROR - could not spawn mobile vitiate
+stack traceback:
+	[C]: in function 'spawnMobile'
+	scripts/screenplays/poi/kaas_city_ruins_mellichae.lua:30: in function <scripts/screenplays/poi/kaas_city_ruins_mellichae.lua:29>

@@ -1,0 +1,46 @@
+blistmok_stalker = Creature:new {
+	objectName = "@mob/creature_names:blistmok_stalker",
+	-- customName = "a blistmok stalker",
+	socialGroup = "blurrg",
+	faction = "",
+	level = 62,
+	chanceHit = 0.92,
+	damageMin = 470,
+	damageMax = 695,
+	baseXp = 4500,
+	baseHAM = 7950,
+	baseHAMmax = 8500,
+	armor = 0,
+	-- (Kinetic, Energy, Blast, Heat, Cold, Electricity, Acid, Stun, Lightsaber)
+	resists = {110,110,30,30,30,30,30,-1,-1},
+	meatType = "meat_carnivore",
+	meatAmount = 100,
+	hideType = "hide_leathery",
+	hideAmount = 95,
+	boneType = "bone_avian",
+	boneAmount = 90,
+	milk = 0,
+	tamingChance = 0,
+	ferocity = 2,
+	pvpBitmask = AGGRESSIVE + ATTACKABLE + ENEMY,
+	creatureBitmask = PACK + KILLER + STALKER,
+	optionsBitmask = AIENABLED,
+	diet = CARNIVORE,
+
+	templates = {"object/mobile/blistmok.iff"},
+	lootGroups = {},
+	weapons = {"creature_spit_small_yellow"},
+	conversationTemplate = "",
+	attacks = {
+		{"",""},
+		{"intimidationattack","intimidationChance=60"},
+		{"mildpoison",""},
+--		{"strongdisease",""},
+--		{"creatureareableeding",""},
+		{"blindattack",""},
+--		{"stunattack","stunChance=50"},
+--		{"knockdownattack","knockdownChance=95"},
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(blistmok_stalker, "blistmok_stalker")

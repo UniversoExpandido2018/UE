@@ -1,0 +1,67 @@
+lava_flea_queen = Creature:new {
+	objectName = "@mob/creature_names:lava_flea_queen",
+--	customName = "a lava flea hatchling",
+	socialGroup = "beetle",
+	faction = "",
+	level = 110,
+	chanceHit = 1.22,
+	damageMin = 695,
+	damageMax = 1290,
+	baseXp = 10197,
+	baseHAM = 20800,
+	baseHAMmax = 26000,
+	armor = 2,
+	-- (Kinetic, Energy, Blast, Heat, Cold, Electricity, Acid, Stun, Lightsaber)
+	resists = {60,80,60,200,60,60,30,80,-1},
+	meatType = "meat_insect",
+	meatAmount = 50,
+	hideType = "hide_scaley",
+	hideAmount = 70,
+	boneType = "",
+	boneAmount = 0,
+	milk = 0,
+--	tamingChance = 0.25,
+	ferocity = 10,
+	pvpBitmask = AGGRESSIVE + ATTACKABLE + ENEMY,
+	creatureBitmask = HERD + KILLER,
+	optionsBitmask = AIENABLED,
+	diet = CARNIVORE,
+
+	scale = 1.4,
+	templates = {"object/mobile/lava_flea2.iff"},
+	lootLevel = 100,
+lootGroups = {
+	{
+		groups = {
+	--		{group = "power_crystals", chance = 600000},
+	--		{group = "color_crystals", chance = 6000000},
+	--		{group = "heavy_weapons_rifle", chance = 6000000},
+	--		{group = "heavy_weapons", chance = 6000000},
+	  		{group = "junk", chance = 8000000},
+	--		{group = "grenades_looted", chance = 6500000},
+	--    {group = "junk", chance = 4000000},
+	      {group = "wearables_all", chance = 2000000},
+	--		{group = "armor_attachments", chance = 3500000},
+	--		{group = "clothing_attachments", chance = 350000},
+	--		{group = "crystal_kuns_blood", chance = 8000000},
+		},
+								lootChance = 10000000
+	},
+},
+--	weapons = {"creature_spit_small_toxicgreen"},
+	weapons = {},
+	conversationTemplate = "",
+	attacks = {
+				{"",""},
+--		{"strongpoison",""},
+		  {"blindattack",""},
+  	  {"intimidationattack",""},
+--		{"stunattack",""},
+--		{"posturedownattack",""},
+--    {"dizzyattack",""},
+	    {"knockdownattack",""},
+--    {"posturedownattack",""},
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(lava_flea_queen, "lava_flea_queen")

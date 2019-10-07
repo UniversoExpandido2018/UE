@@ -1,0 +1,47 @@
+xandank = Creature:new {
+	objectName = "@mob/creature_names:xandank",
+	-- customName = "a xandank",
+	socialGroup = "baz_nitch",
+	faction = "",
+	level = 66,
+	chanceHit = 0.69,
+	damageMin = 420,
+	damageMax = 610,
+	baseXp = 3265,
+	baseHAM = 8700,
+	baseHAMmax = 9800,
+	armor = 1,
+	-- (Kinetic, Energy, Blast, Heat, Cold, Electricity, Acid, Stun, Lightsaber)
+	resists = {40,20,30,90,30,30,30,10,-1},
+	meatType = "meat_insect",
+	meatAmount = 35,
+	hideType = "hide_scaley",
+	hideAmount = 65,
+	boneType = "",
+	boneAmount = 0,
+	milk = 0,
+	tamingChance = 0,
+	ferocity = 3,
+	pvpBitmask = AGGRESSIVE + ATTACKABLE + ENEMY,
+	creatureBitmask = PACK,
+	optionsBitmask = AIENABLED,
+	diet = CARNIVORE,
+
+  scale = 0.85,
+	templates = {"object/mobile/xandank.iff"},
+	lootGroups = {},
+	weapons = {},
+	conversationTemplate = "",
+	attacks = {
+		  {"",""},
+	  	{"intimidationattack","intimidationChance=35"},
+--		{"creatureareableeding",""},
+--		{"mildpoison",""},
+--		{"strongdisease",""},
+		  {"blindattack",""},
+--		{"stunattack","stunChance=50"},
+--		{"knockdownattack","knockdownChance=95"},
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(xandank, "xandank")

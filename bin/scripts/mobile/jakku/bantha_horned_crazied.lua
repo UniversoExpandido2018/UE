@@ -1,0 +1,43 @@
+bantha_horned_crazied = Creature:new {
+	objectName = "@mob/creature_names:bantha_horned_crazied",
+	socialGroup = "bantha",
+	faction = "",
+	level = 37,
+	chanceHit = 0.55,
+	damageMin = 370,
+	damageMax = 480,
+	baseXp = 2540,
+	baseHAM = 11000,
+	baseHAMmax = 12550,
+	armor = 0,
+	resists = {170,120,30,150,-1,-1,-1,-1,-1},
+	meatType = "meat_herbivore",
+	meatAmount = 430,
+	hideType = "hide_wooly",
+	hideAmount = 325,
+	boneType = "bone_mammal",
+	boneAmount = 250,
+	milkType = "milk_wild",
+	milk = 0,
+	tamingChance = 0,
+	ferocity = 0,
+	pvpBitmask = AGGRESSIVE + ATTACKABLE + ENEMY,
+	creatureBitmask = PACK + HERD,
+	optionsBitmask = AIENABLED,
+	diet = HERBIVORE,
+
+	templates = {"object/mobile/bantha_horned.iff"},
+--	controlDeviceTemplate = "object/intangible/pet/bantha_horned_hue.iff",
+	scale = 1.15,
+	lootGroups = {},
+	weapons = {},
+	conversationTemplate = "",
+	attacks = {
+		{"",""},
+		{"knockdownattack",""},
+--		{"posturedownattack",""},
+		{"stunattack",""},
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(bantha_horned_crazied, "bantha_horned_crazied")

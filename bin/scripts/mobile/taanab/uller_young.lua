@@ -1,0 +1,43 @@
+uller_young = Creature:new {
+	objectName = "@mob/creature_names:uller_young",
+	socialGroup = "bantha",
+	faction = "",
+	level = 34,
+	chanceHit = 0.36,
+	damageMin = 170,
+	damageMax = 210,
+	baseXp = 643,
+	baseHAM = 4990,
+	baseHAMmax = 5350,
+	armor = 0,
+	resists = {100,100,100,100,50,30,100,30,-1},
+	meatType = "meat_herbivore",
+	meatAmount = 85,
+	hideType = "hide_wooly",
+	hideAmount = 85,
+	boneType = "bone_mammal",
+	boneAmount = 90,
+--	milkType = "milk_wild",
+	milk = 0,
+	tamingChance = 0,
+	ferocity = 2,
+	pvpBitmask = ATTACKABLE,
+	creatureBitmask = PACK + HERD,
+	optionsBitmask = AIENABLED,
+	diet = HERBIVORE,
+
+	templates = {"object/mobile/shared_uller.iff"},
+	scale = 0.85,
+	lootGroups = {},
+	weapons = {},
+	conversationTemplate = "",
+	attacks = {
+		{"",""},
+	--	{"posturedownattack",""},
+	--{"intimidationattack",""},
+		{"stunattack",""},
+	--{"knockdownattack",""},
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(uller_young, "uller_young")

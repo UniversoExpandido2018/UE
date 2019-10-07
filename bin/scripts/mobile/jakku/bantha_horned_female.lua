@@ -1,0 +1,41 @@
+bantha_horned_female = Creature:new {
+	objectName = "@mob/creature_names:bantha_horned_female",
+	socialGroup = "bantha",
+	faction = "",
+	level = 30,
+	chanceHit = 0.41,
+	damageMin = 340,
+	damageMax = 380,
+	baseXp = 2340,
+	baseHAM = 8400,
+	baseHAMmax = 9400,
+	armor = 0,
+	resists = {135,110,10,150,-1,-1,-1,-1,-1},
+	meatType = "meat_herbivore",
+	meatAmount = 430,
+	hideType = "hide_wooly",
+	hideAmount = 325,
+	boneType = "bone_mammal",
+	boneAmount = 250,
+	milkType = "milk_wild",
+	milk = 230,
+	tamingChance = 0.25,
+	ferocity = 0,
+	pvpBitmask = ATTACKABLE,
+	creatureBitmask = PACK + HERD,
+	optionsBitmask = AIENABLED,
+	diet = HERBIVORE,
+
+	templates = {"object/mobile/bantha_horned.iff"},
+	controlDeviceTemplate = "object/intangible/pet/bantha_horned_hue.iff",
+--	scale = 1.25,
+	lootGroups = {},
+	weapons = {},
+	conversationTemplate = "",
+	attacks = {
+		{"",""},
+		{"posturedownattack",""},
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(bantha_horned_female, "bantha_horned_female")

@@ -1,0 +1,45 @@
+fierce_shyrack = Creature:new {
+	objectName = "@mob/creature_names:fierce_shyrack",
+--	customName = "a fierce shyrack",
+	socialGroup = "mynock",
+	faction = "",
+	level = 84,
+	chanceHit = 1.29,
+	damageMin = 425,
+	damageMax = 710,
+	baseXp = 10945,
+	baseHAM = 14890,
+	baseHAMmax = 19190,
+	armor = 1,
+	resists = {40,40,40,40,0,40,10,-1,-1},
+	meatType = "meat_herbivore",
+	meatAmount = 65,
+	hideType = "hide_leathery",
+	hideAmount = 69,
+	boneType = "bone_mammal",
+	boneAmount = 90,
+	milk = 0,
+	tamingChance = 0,
+	ferocity = 0,
+	pvpBitmask = AGGRESSIVE + ATTACKABLE + ENEMY,
+	creatureBitmask = PACK + HERD + STALKER,
+	optionsBitmask = AIENABLED,
+	diet = CARNIVORE,
+
+	templates = {"object/mobile/mynock.iff"},
+	scale = 5,
+	controlDeviceTemplate = "object/intangible/pet/mynock_hue.iff",
+	lootGroups = {},
+	weapons = {},
+	conversationTemplate = "",
+	attacks = {
+--		{"milddisease",""},
+		{"posturedownattack",""},
+		{"stunattack",""},
+		{"mildpoison",""},
+		{"creatureareaknockdown",""},
+		{"intimidationattack",""}
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(fierce_shyrack, "fierce_shyrack")

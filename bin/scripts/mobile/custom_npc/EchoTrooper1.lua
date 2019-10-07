@@ -1,0 +1,38 @@
+echotrooper1 = Creature:new {
+--	objectName = "@mob/creature_names:echotrooper1",
+  customName = "Recluta Imperial",
+--	socialGroup = "townsperson",
+	faction = "imperial",
+	level = 14,
+	chanceHit = 1,
+	damageMin = 140,
+	damageMax = 190,
+	baseXp = 100,
+	baseHAM = 3000,
+	baseHAMmax = 4000,
+	armor = 0,
+	resists = {10,10,10,10,10,10,10,10,-1},
+	meatType = "",
+	meatAmount = 0,
+	hideType = "",
+	hideAmount = 0,
+	boneType = "",
+	boneAmount = 0,
+	milk = 0,
+	tamingChance = 0,
+	ferocity = 0,
+	pvpBitmask = NONE,
+	creatureBitmask = NONE,
+	optionsBitmask =  AIENABLED + CONVERSABLE + INTERESTING,
+	diet = HERBIVORE,
+  scale = 0.94,
+
+--	templates = {"object/mobile/space_privateer_tier4_naboo_diness.iff"},
+	templates = {"object/mobile/snowtrooper.iff"},
+	lootGroups = {},
+	weapons = {"stormtrooper_weapons"},
+	conversationTemplate = "echotrooper1_template",
+--  attacks = merge(lightsabermaster,forcewielder)
+}
+
+CreatureTemplates:addCreatureTemplate(echotrooper1, "echotrooper1")

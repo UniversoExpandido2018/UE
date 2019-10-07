@@ -1,0 +1,5 @@
+object_installation_mining_liquid_resource_harvester = object_installation_mining_liquid_shared_resource_harvester:new {
+
+}
+
+ObjectTemplates:addTemplate(object_installation_mining_liquid_resource_harvester, "object/installation/mining_liquid/resource_harvester.iff")

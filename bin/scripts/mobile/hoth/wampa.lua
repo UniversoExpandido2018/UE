@@ -1,0 +1,48 @@
+wampa = Creature:new {
+	objectName = "@mob/creature_names:wampa",
+	socialGroup = "rancor",
+	faction = "",
+	level = 58,
+	chanceHit = 0.68,
+	damageMin = 370,
+	damageMax = 660,
+	baseXp = 4916,
+	baseHAM = 17000,
+	baseHAMmax = 19400,
+	armor = 0,
+	resists = {160,160,160,50,200,180,130,120,-1},
+	meatType = "meat_carnivore",
+	meatAmount = 250,
+	hideType = "hide_leathery",
+	hideAmount = 450,
+	boneType = "bone_mammal",
+	boneAmount = 240,
+	milk = 0,
+--	tamingChance = 0.25,
+	ferocity = 3,
+	pvpBitmask = AGGRESSIVE + ATTACKABLE + ENEMY,
+	creatureBitmask = PACK + KILLER + STALKER,
+	optionsBitmask = AIENABLED,
+	diet = CARNIVORE,
+
+	templates = {"object/mobile/shared_wampa.iff"},
+	scale = 0.9,
+--	controlDeviceTemplate = "object/intangible/pet/wampa_hue.iff",
+
+	weapons = {},
+	conversationTemplate = "",
+	attacks = {
+				{"",""},
+		--		{"strongpoison",""},
+		--		{"blindattack",""},
+			  	{"intimidationattack",""},
+				  {"stunattack",""},
+					{"creatureareaknockdown",""},
+		--		{"posturedownattack",""},
+		--      {"dizzyattack",""},
+		--			{"knockdownattack",""},
+		--      {"posturedownattack",""},
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(wampa, "wampa")

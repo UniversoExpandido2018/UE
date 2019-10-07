@@ -1,0 +1,47 @@
+tanray = Creature:new {
+	objectName = "@mob/creature_names:tanray",
+	-- customName = "a tanray",
+	socialGroup = "choku",
+	faction = "",
+	level = 56,
+	chanceHit = 0.71,
+	damageMin = 425,
+	damageMax = 580,
+	baseXp = 6165,
+	baseHAM = 7900,
+	baseHAMmax = 9700,
+	armor = 0,
+	-- (Kinetic, Energy, Blast, Heat, Cold, Electricity, Acid, Stun, Lightsaber)
+	resists = {150,150,0,0,30,10,10,-1,-1},
+	meatType = "meat_avian",
+	meatAmount = 35,
+	hideType = "",
+	hideAmount = 0,
+	boneType = "bone_avian",
+	boneAmount = 40,
+	milk = 0,
+	tamingChance = 0,
+	ferocity = 0,
+	pvpBitmask = AGGRESSIVE + ATTACKABLE + ENEMY,
+	creatureBitmask = PACK + KILLER + STALKER,
+	optionsBitmask = AIENABLED,
+	diet = CARNIVORE,
+
+	templates = {"object/mobile/tanray.iff"},
+	scale = 0.1,
+	lootGroups = {},
+	weapons = {},
+	conversationTemplate = "",
+	attacks = {
+			{"",""},
+--		{"intimidationattack","intimidationChance=50"},
+--		{"creatureareableeding",""},
+--		{"blindattack",""},
+--		{"stunattack","stunChance=50"},
+--		{"knockdownattack","knockdownChance=95"},
+--		{"mediumpoison",""},
+		  {"posturedownattack",""},
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(tanray, "tanray")

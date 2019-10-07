@@ -1,0 +1,4 @@
+object_tangible_terminal_echo_base_elevator_07_cueva = object_tangible_terminal_shared_echo_base_elevator_07_cueva:new {
+	objectMenuComponent = "echo_base_Elevator07_cuevaMenuComponent"
+}
+ObjectTemplates:addTemplate(object_tangible_terminal_echo_base_elevator_07_cueva, "object/tangible/terminal/echo_base_elevator_07_cueva.iff")

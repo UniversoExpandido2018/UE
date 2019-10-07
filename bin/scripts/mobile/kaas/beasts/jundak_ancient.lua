@@ -1,0 +1,47 @@
+jundak_ancient = Creature:new {
+	objectName = "@mob/creature_names:jundak_ancient",
+	-- customName = "a jundak ancient",
+	socialGroup = "baz_nitch",
+	faction = "",
+	level = 79,
+	chanceHit = 1.02,
+	damageMin = 530,
+	damageMax = 860,
+	baseXp = 7350,
+	baseHAM = 18200,
+	baseHAMmax = 24200,
+	armor = 1,
+	-- (Kinetic, Energy, Blast, Heat, Cold, Electricity, Acid, Stun, Lightsaber)
+	resists = {140,140,160,-1,180,190,-1,-1,-1},
+	meatType = "meat_insect",
+	meatAmount = 45,
+	hideType = "hide_scaley",
+	hideAmount = 55,
+	boneType = "",
+	boneAmount = 0,
+	milk = 0,
+	tamingChance = 0,
+	ferocity = 10,
+	pvpBitmask = AGGRESSIVE + ATTACKABLE + ENEMY,
+	creatureBitmask = PACK + KILLER + STALKER,
+	optionsBitmask = AIENABLED,
+	diet = CARNIVORE,
+
+	templates = {"object/mobile/cinderclaw.iff"},
+--	scale = 1.2,
+	lootGroups = {},
+	weapons = {},
+	conversationTemplate = "",
+	attacks = {
+		{"",""},
+		{"intimidationattack","intimidationChance=70"},
+		{"creatureareableeding",""},
+		{"blindattack",""},
+--		{"creatureareapoison",""},
+		{"strongpoison",""},
+--		{"stunattack","stunChance=50"},
+--		{"knockdownattack","knockdownChance=95"},
+	}
+}
+
+CreatureTemplates:addCreatureTemplate(jundak_ancient, "jundak_ancient")

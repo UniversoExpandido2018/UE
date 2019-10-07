@@ -1,0 +1,37 @@
+jaina_solo = Creature:new {
+	objectName = "@mob/creature_names:jaina_solo",
+--  customName = "Jaina Solo",
+--	socialGroup = "townsperson",
+--	faction = "townsperson",
+	level = 260,
+	chanceHit = 20,
+	damageMin = 1245,
+	damageMax = 1490,
+	baseXp = 100,
+	baseHAM = 560000,
+	baseHAMmax = 600000,
+	armor = 3,
+	resists = {150,150,150,150,150,150,150,150,-1},
+	meatType = "",
+	meatAmount = 0,
+	hideType = "",
+	hideAmount = 0,
+	boneType = "",
+	boneAmount = 0,
+	milk = 0,
+	tamingChance = 0,
+	ferocity = 0,
+	pvpBitmask = ATTACKABLE,
+	creatureBitmask = PACK + HEALER,
+	optionsBitmask =  CONVERSABLE + INTERESTING,
+	diet = HERBIVORE,
+
+--	templates = {"object/mobile/space_privateer_tier4_naboo_diness.iff"},
+	templates = {"object/mobile/jaina_solo.iff"},
+	lootGroups = {},
+	weapons = {"jaina_solo_weapon"},
+	conversationTemplate = "jaina_quest_template",
+  attacks = merge(lightsabermaster,forcewielder)
+}
+
+CreatureTemplates:addCreatureTemplate(jaina_solo, "jaina_solo")

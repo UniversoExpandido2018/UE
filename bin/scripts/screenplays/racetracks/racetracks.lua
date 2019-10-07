@@ -1,0 +1,9 @@
+includeFile("racetracks/agrilatswamp.lua")
+includeFile("racetracks/keren.lua")
+includeFile("racetracks/mosespa.lua")
+includeFile("racetracks/narmle.lua")
+includeFile("racetracks/lok.lua")
+includeFile("racetracks/nashal.lua")
+---
+includeFile("racetracks/coruscant_lower.lua")
+includeFile("racetracks/bilbousa_circuit.lua")
