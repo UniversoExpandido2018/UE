@@ -1,7 +1,7 @@
-UNIVERSO EXPANDIDO
+# UNIVERSO EXPANDIDO
 Universo Expandido es un servidor para jugadores de habla española.
 
-SWGEmu Core3
+# SWGEmu Core3
 
 What is SWGEmu?
 
